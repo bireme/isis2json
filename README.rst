@@ -62,8 +62,6 @@ ISIS-JSON Record Types
 There are many ways to represent CDS/ISIS records in JSON [#]_. This
 utility currently exports ISIS-JSON types 1, 2 and 3.
 
-.. [#] See section 4.1 of http://journal.code4lib.org/articles/4893
-
 Given an ISIS record with this strcuture::
 
    2 «538886»
@@ -77,6 +75,7 @@ ISIS-JSON type 1
 -----------------
 
 ::
+
   {"10":
       ["Kanda, Paulo Afonso^1USP^2FMUSP^3CRDC^pBrasil^cSão Paulo^rorg",
        "Smidth, Magali Taino^1USP^2FMUSP^3CRDC^pBrasil^cSão Paulo^rorg"],
@@ -88,6 +87,7 @@ ISIS-JSON type 2
 -----------------
 
 ::
+
     {"10":
         [
             [
@@ -121,6 +121,7 @@ ISIS-JSON type 3
 -----------------
 
 ::
+
     {"10":
         [
             {
@@ -149,6 +150,9 @@ ISIS-JSON type 3
             }
         ]
     }
+
+
+.. [#] See section 4.1 of http://journal.code4lib.org/articles/4893
 
 
 Dependencies
