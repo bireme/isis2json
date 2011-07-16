@@ -31,7 +31,7 @@ Usage
     -h, --help          show this help message and exit
     -o OUTPUT.json, --out OUTPUT.json
                         the file where the JSON output should be written
-                        (default: write to stdout)
+                          (default: write to stdout)
     -c, --couch         output array within a "docs" item in a JSON document
                           for bulk insert to CouchDB via POST to db/_bulk_docs
     -m, --mongo         output individual records as separate JSON objects,
@@ -44,7 +44,7 @@ Usage
     -s SKIP, --skip SKIP  records to skip from start of .mst (default=0)
     -i TAG_NUMBER, --id TAG_NUMBER
                         generate an "_id" from the given unique TAG field
-                        number for each record
+                          number for each record
     -u, --uuid          generate an "_id" with a random UUID for each record
     -p PREFIX, --prefix PREFIX
                         concatenate prefix to every numeric field tag
@@ -65,9 +65,8 @@ utility currently exports ISIS-JSON types 1, 2 and 3.
 Given an ISIS record with this strcuture::
 
    2 «538886»
-  10 «Kanda, Paulo Afonso de Medeiros^1University of São Paulo
-      ^2School of Medicine^3Cognitive Disorders of Clinicas
-      Hospital Reference Center^pBrasil ^cSão Paulo^rorg»
+  10 «Kanda, Paulo Afonso^1USP^2FMUSP^3CRDC^pBrasil^cSão Paulo^rorg»
+  10 «Smidth, Magali Taino^1USP^2FMUSP^3CRDC^pBrasil^cSão Paulo^rorg»
 
 Below are the three supported representations of that record in JSON:
 
