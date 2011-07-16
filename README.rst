@@ -170,9 +170,9 @@ Under Jython, isis2json.py depends on:
 - Bruma.jar on the CLASSPATH (bundled);
 - jyson-1.0.1.jar on the CLASSPATH (bundled);
 
-Example CLASSPATH:
+Example CLASSPATH::
 
-export CLASSPATH=/home/luciano/lib/Bruma.jar:/home/luciano/lib/jyson-1.0.1.jar
+  export CLASSPATH=/home/luciano/lib/Bruma.jar:/home/luciano/lib/jyson-1.0.1.jar
 
 
 Troubleshooting
