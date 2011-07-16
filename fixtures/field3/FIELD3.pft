@@ -1,0 +1,4 @@
+f2,cl4,m(3175,-3175)
+"Eleven (11):",tab(3175),v11/
+(if p(v22) then 'Twenty-two (22):',tab(3175),v22/fi)
+(if p(v333) then 'Three-three-three (333):',tab(3175),v333/fi)

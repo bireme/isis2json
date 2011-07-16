@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<database name='lilacs-1-30'>
+<record mfn='1' nvf='32' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538905</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a15-ing.pdf?aid2=193&amp;nome_en=v3n4a15-ing.pdf^len.pdf</field>
+  <field tag='10'>Takada, Leonel Tadao^1Universidade de São Paulo^2Faculdade de Medicina^3Hospital das Clínicas. Cognitive and Behavioral Neurology Unit. Centro de Referência em Distúrbios Cognitivos^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Camiz, Paulo^1Universidade de São Paulo^2Faculdade de Medicina^3Hospital das Clínicas. Behavioral Neurology Unit. Centro de Referência em Distúrbios Cognitivos^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Grinberg, Lea T^1University of California^2Department of Neurology^3Memory and Aging Clinics^pUSA^cCalifornia^rorg</field>
+  <field tag='10'>Leite, Claudia da Costa^1University of São Paulo^2Faculty of Medicine^3Hospital das Clínicas. Radiology Department^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Non-inflammatory cerebral amyloid angiopathy as a cause of rapidly progressive dementia: a case study</field>
+  <field tag='12'>Angiopatia amilóide cerebral não inflamatória como causa de demência rapidamente progressiva: estudo de caso</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract ? A 77 year-old men developed a subacute-onset, rapidly progressive cognitive decline. After 6 months of evolution, he scored 6 on the Mini-Mental State Examination and had left hemiparesis and hemineglect. The patient died 11 months after the onset of cognitive symptoms. Brain MRI showed microhemorrhages on gradient-echo sequence and confluent areas of white matter hyperintensities on T2-weighted images. Brain biopsy revealed amyloid-? peptide deposition in vessel walls, some of them surrounded by micro-bleeds. In this case report, we discuss the role of cerebral amyloid angiopathy (CAA) in cognitive decline, due to structural lesions associated with hemorrhages and infarcts, white matter lesions and co-morbidity of Alzheimer?s disease, as well as the most recently described amyloid angiopathy-related inflammation.(AU)</field>
+  <field tag='83'>Resumo ? Um homem de setenta e sete anos desenvolveu quadro de início subagudo de demência rapidamente progressiva. Após seis meses de evolução, sua pontuação do Mini exame do estado mental foi de 6, e no exame neurológico apresentava heminegligência e hemiparesia esquerda. O paciente faleceu 11 meses após início dos sintomas. RM do encéfalo mostrou microhemorragias em sequência gradiente-echo e áreas confluentes de hiperintensidade de substância branca nas imagens pesadas em T2. Na biópsia cerebral observou-se deposição de peptídeo ?-amilóide em vasos sanguíneos, alguns rodeados por microhemorragias. Neste relato de caso, discutimos o papel da angiopatia amiloide cerebral no declínio cognitivo, devido a lesões estruturais associadas a hemorragias e infartos, lesões de substância branca e comorbidade com doença de Alzheimer, assim como a mais recentemente descrita inflamação relacionada a angiopatia amiloide.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538905^dBIREME_LLXPEDT^sS1980-576420090005000200014</field>
+</record>
+
+<record mfn='2' nvf='31' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538904</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a14-ing.pdf?aid2=192&amp;nome_en=v3n4a14-ing.pdf^len.pdf</field>
+  <field tag='10'>Foss, Maria Paula^1Universidade de São Paulo^2Faculty of Medicine of Ribeirão Preto^3Department of Neurosciences and Behavioral Sciences. Neurosciences Program^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Formigheri, Paulo^1Universidade de São Paulo^2Faculty of Medicine of Ribeirão Preto^3Program of Internal Medicine^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Speciali, José Geraldo^1University of São Paulo^2Faculty of Medicine of Ribeirão Preto ^3Department of Neurosciences. Department of Neurosciences and Behavioral Sciences^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Heterogeneity of cognitive aging in Brazilian normal elderls</field>
+  <field tag='12'>Heterogeneidade do envelhecimento cognitivo em idosos brasileiros saudáveis</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract ? With aging, several cognitive skills inevitably decline. However, cognitive losses do not occur homogenously in all elderly people, differing in number and severity of affected cognitive functions. These differences could be exacerbated by socioeconomic differences in a developing country like Brazil. Objectives: to characterize the cognitive functioning of healthy elderly subjects whose socioeconomic conditions differ to those of other studies. Methods: 60 elderly subjects with a mean age of 68 years, 43 women and 17 men, and mean schooling of 7.1 years, were studied. The cognitive function of this group was assessed using the following neuropsychological tests: Mattis Dementia Rating Scale (MDRS), Stroop Test, Verbal Fluency, Wisconsin Card Sorting Test (WCST), Rey Complex Figure, Vocabulary ? Wais ? III, Logical Memory (WMS-R), Visual Reproduction (WMS-R), and Rey Auditory-Verbal Learning Test (RAVLT). The neuropsychological data were submitted to Multivariate cluster analysis using SAS - Proc Cluster software and the complete binding hierarchical method. Results: Variability was found allowing classification of the studied group into 4 clusters of individuals who had above-average (C1), average (C3 and C4) and below average (C2) performance. Schooling determined the results obtained, with less educated subjects showing poorer performance than higher-educated subjects. Conclusions: Significant differences in the process of cognitive aging were detected on neuropsychological tests in this group of healthy elderly from the developing country of Brazil, where socioeconomic differences may exacerbate cognitive differences among older adults.(AU)</field>
+  <field tag='83'>Resumo ? Com o envelhecimento algumas habilidades cognitivas inevitavelmente declinam. No entanto, as perdas cognitivas não ocorrem da mesma maneira para todos os idosos, diferindo na quantidade e intensidade das funções cognitivas afetadas que podem se intensificar pelas diferenças socioeconômicas encontradas num país em desenvolvimento, como o Brasil. Objetivos: Caracterizar o funcionamento de idosos saudáveis em condições socioeconômicas diversas das encontradas em outros estudos. Métodos: 60 idosos saudáveis, com idade média 68 anos, 43 mulheres e 17 homens e escolaridade média de 7,1 anos. O funcionamento cognitivo desse grupo foi avaliado por meio da aplicação dos seguintes de testes neuropsicológicos: Escala de Mattis para Avaliação de Demência (MDRS), Teste de Stroop, Fluência Verbal, Teste de Winconsin de Classificação de Cartas- WCST, Figura Complexa de Rey, Vocabulário ? Wais ? III, Memória Lógica ? WMS-R, Reprodução Visual ? WMS-R, Teste da Aprendizagem Auditivo-Verbal de Rey. Os dados da avaliação neuropsicológica foram submetidos à análise Multivariada de Cluster pelo Software SAS - Proc Cluster utilizando o método hierárquico de ligação completa. Resultados: Demonstraram uma variabilidade que permitiu a classificação do grupo de estudo em 4 clusters de indivíduos que tiveram um melhor desempenho (C1), com desempenho dentro da média (C3 e C4) e com pior desempenho (C2). A escolaridade determinou os resultados encontrados, sendo que os menos escolarizados mostraram piores desempenhos do que os outros. Conclusões: Houve diferenças significativas no processo de envelhecimento cognitivo estimada pela avaliação neuropsicológica nesse grupo de idosos saudáveis em países em desenvolvimento, como o Brasil, em que as diferenças socioeconômicas podem intensificar as diferenças cognitivas entre os idosos.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538904^dBIREME_LLXPEDT^sS1980-576420090005000200013</field>
+</record>
+
+<record mfn='3' nvf='30' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538903</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a13-ing.pdf?aid2=191&amp;nome_en=v3n4a13-ing.pdf^len.pdf</field>
+  <field tag='10'>Kato-Narita, Eliane Mayumi^1University of São Paulo^2School of Medicine^3Department of Neurology. Behavioral and Cognitive Neurology Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Radanovic, Marcia^1University of São Paulo^2School of Medicine^3Department of Neurology. Behavioral and Cognitive Neurology Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Characteristics of falls in mild and moderate Alzheimer's disease</field>
+  <field tag='12'>Características das quedas na doença de Alzheimer leve e moderada</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Resumo: A ocorrência de quedas entre idosos com a doença de Alzheimer (DA) é muito frequente, e traz consequências graves como a piora cognitiva, fraturas e perda da independência. Muitos estudos foram realizados com o objetivo de identificar os fatores de risco associados às quedas, com o fim de propor estratégias de prevenção. Objetivos: O presente estudo buscou descrever a frequência e características das quedas em uma amostra de pacientes com DA, e seus principais fatores de risco. Métodos: Foram analisados 40 idosos sem alterações cognitivas e 45 com DA, classificados em CDR 1 e CDR 2. Resultados: Riscos ambientais foram associados às quedas tanto no grupo CDR 1 (41.4%) como CDR 2 (46.7%). Instabilidade (31%) e tontura (17.2%) foram frequentes no grupo CDR 1, sendo este o grupo que apresentou o maior índice de recorrência (28%). Em ambos os grupos com DA, as quedas ocorreram mais frequentemente dentro de casa (70,30 e 80% respectivamente para os grupos CDR 1 e 2). Conclusões: Estes resultados reforçam a hipótese de que as quedas em pacientes com DA são multifatoriais e seus fatores de risco altamente interconectados. Medidas preventivas devem ser realizadas, principalmente quanto a retirada de riscos ambientais, a presença constante de cuidador, e a estimulação física e funcional do paciente, tanto na fase leve como na moderada da DA.(AU)</field>
+  <field tag='83'>Resumo: A ocorrência de quedas entre idosos com a doença de Alzheimer (DA) é muito frequente, e traz consequências graves como a piora cognitiva, fraturas e perda da independência. Muitos estudos foram realizados com o objetivo de identificar os fatores de risco associados às quedas, com o fim de propor estratégias de prevenção. Objetivos: O presente estudo buscou descrever a frequência e características das quedas em uma amostra de pacientes com DA, e seus principais fatores de risco. Métodos:Foram analisados 40 idosos sem alterações cognitivas e 45 com DA, classificados em CDR 1 e CDR 2. Resultados: Riscos ambientais foram associados às quedas tanto no grupo CDR 1 (41.4%) como CDR 2 (46.7%). Instabilidade (31%) e tontura (17.2%) foram frequentes no grupo CDR 1, sendo este o grupo que apresentou o maior índice de recorrência (28%). Em ambos os grupos com DA, as quedas ocorreram mais frequentemente dentro de casa (70,30 e 80% respectivamente para os grupos CDR 1 e 2). Conclusões: Estes resultados reforçam a hipótese de que as quedas em pacientes com DA são multifatoriais e seus fatores de risco altamente interconectados. Medidas preventivas devem ser realizadas, principalmente quanto a retirada de riscos ambientais, a presença constante de cuidador, e a estimulação física e funcional do paciente, tanto na fase leve como na moderada da DA.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538903^dBIREME_LLXPEDT^sS1980-576420090005000200012</field>
+</record>
+
+<record mfn='4' nvf='30' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538902</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a12-ing.pdf?aid2=190&amp;nome_en=v3n4a12-ing.pdf^len.pdf</field>
+  <field tag='10'>Bahia, Valéria Santoro^1University of São Paulo^2School of Medicine^3Hospital das Clínicas. Department of Neurology. Behavioral and Cognitive Neurology Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Viana, Rene^1University of São Paulo^2School of Medicine^3Hospital das Clínicas. Department of Neurology. Behavioral and Cognitive Neurology Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Accuracy of neuropsychological testsand the Neuropsychiatric Inventory in differential diagnosis between Frontotemporal dementia and Alzheimer's disease</field>
+  <field tag='12'>Acurácia de testes neuropsicológicos e Inventário Neuropsiquiátrico no diagnóstico diferencial entre Demência Frontotemporal e doença de Alzheimer</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The differential diagnosis between frontotemporal dementia (FTD) and Alzheimer's disease (AD) is sometimes difficult. Objectives: To verify the accuracy of neuropsychological tests and a behavioral disorders scale in the differential diagnosis between FTLD and AD. Methods: Retrospective data on 12 FTD patients and 12 probable AD patients were analyzed. The scores on neuropsychological tests (MMSE score, reverse digit span, delayed recall for drawings, semantic fluency of animals) and the Neuropsychiatric Inventory (NPI) in both groups were compared. Results: Both groups had similar performance on neuropsychological tests. All FTD patients and 50% of AD patients had neuropsychiatric abnormalities. The NPI score was 58.0±19.3 for the FTD patients, and 3.6±4.7 for the AD patients (p&lt;0.01). Using a NPI cut-off score of 13, the sensitivity and specificity were 100% in this sample. The four most common neuropsychiatric disturbances in FTD patients were: apathy, aberrant motor behavior, disinhibition and eating abnormalities. Apathy and dysphoria/depression were the most common behavioral symptoms among the AD patients. Conclusions: In this study, NPI was found to be a useful tool for the differential diagnosis between FTD and AD. The neuropsychological tests commonly used in the medical office were unable to distinguish between the two groups.(AU)</field>
+  <field tag='83'>Resumo: O diagnóstico diferencial entre demência frontotemporal (DFT) e doença de Alzheimer (DA) pode ser difícil em alguns casos. Objetivos: Verificar a acurácia de testes neuropsicológicos e de escala de transtornos comportamentais no diagnóstico diferencial entre DFT e DA. Métodos: Foram analisados dados retrospectivos de 12 pacientes com o diagnóstico de DFT e de 12 pacientes com DA provável. Os escores dos testes neuropsicológicos (MEEM, extensão de dígitos em ordem inversa, memória tardia de figuras e fluência semântica de animais) e do Inventário Neuropsiquiátrico (INP) dos dois grupos foram comparados. Resultados: Os dois grupos apresentaram pontuação similar nos testes neuropsicológicos. Todos os pacientes com DFT e 50% dos pacientes com DA apresentavam alterações neuropsiquiátricas. O escore do INP foi 58,0±19,3 em pacientes com DFT e 3,6±4,7 em pacientes com DA provável (p&lt;0.01). Com o escore de corte de 13 no NPI, a sensibilidade e a especificidade foram de 100%, nesta amostra. Os quatro sintomas neuropsiquiátricos mais comuns em pacientes com DFT foram: apatia, comportamento motor aberrante, desinibição e alteração do comportamento alimentar. Apatia e depressão foram os sintomas comportamentais mais frequentes em pacientes com DA. Conclusões: Neste estudo, mostramos que o INP é um instrumento útil no diagnóstico diferencial entre DFT e DA enquanto que testes neuropsicológicos geralmente utilizados em consultório não distinguiram os dois grupos(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538902^dBIREME_LLXPEDT^sS1980-576420090005000200011</field>
+</record>
+
+<record mfn='5' nvf='33' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538901</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a11-ing.pdf?aid2=189&amp;nome_en=v3n4a11-ing.pdf^len.pdf</field>
+  <field tag='10'>Castro, Stephanie^1University of São Paulo^2School of Medicine^3Departments of Neurology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Damin, Antonio Eduardo^1University of São Paulo^2School of Medicine^3Departments of Neurology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Porto, Cláudia Sellitto^1University of São Paulo^2School of Medicine^3Departments of Neurology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Caramelli, Paulo^1Federal University of Minas Gerais^2Department of Neurologia^3Behavioral of Cognitive Unit^pBrasil^cBelo Horizonte^rorg</field>
+  <field tag='10'>Nitrini, Ricardo^1University of São Paulo^2School of Medicine^3Departments of Neurology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>The abbreviated form of theBrief Cognitive Battery in the diagnosisof dementia in Alzheimer's disease</field>
+  <field tag='12'>Forma reduzida da bateria breve no diagnóstico de demência na doença de Alzheimer</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The Brief Cognitive Battery (BCB) developed by our group for cognitive assessment of low educated individuals has also shown to be highly accurate in diagnosing dementia of individuals with medium or high levels of education, making it a useful tool for populations with heterogeneous educational background. The application of BCB takes around eight minutes, a rather long period for a screening test. Objectives: Our aim was to evaluate whether the exclusion of items of the BCB could reduce its application time without losing accuracy. Methods: Patients with Alzheimer's disease with mild or moderate dementia (N=20), and 30 control subjects were submitted to an abbreviated version of the BCB in which the clock drawing test was not included as an interference test for the delayed recall test. Data from another 22 control individuals who were submitted to the original BCB in another study were also included for comparison. A mathematical formula was employed to compare the two versions of the BCB. Descriptive statistics and ROC (receiver operator characteristic) curves were used (alpha=0.05). Results: Using the abbreviated version, the delayed recall test also had high accuracy in diagnosing dementia and the mathematical formula results did not differ to those obtained using the original version, while mean time was reduced by 2 minutes and 37 seconds. Conclusions: This abbreviated form of the BCB is a potentially valuable tool for screening dementia in population studies as well as in busy clinical practices in countries with heterogeneous educational backgrounds.(AU)</field>
+  <field tag='83'>Resumo: A Bateria Cognitiva Breve (BCB), desenvolvida pelo nosso grupo para a avaliação cognitiva de indivíduos de baixa escolaridade, tem se mostrado também bastante precisa no diagnóstico de demência em indivíduos com escolaridade média ou alta, tornando-se uma ferramenta útil para populações com heterogeneidade educacional. A aplicação da BCB demora cerca de oito minutos, um tempo bastante longo para um teste de rastreio cognitivo. Objetivos: Avaliar se a exclusão de itens da BCB pode reduzir o tempo de aplicação, sem perder precisão. Métodos: Pacientes com doença de Alzheimer com demência leve ou moderada (N=20) e 30 indivíduos controle foram submetidos a uma versão abreviada da BCB na qual o teste do desenho do relógio não foi incluído como um teste de interferência para o teste de recordação tardia. Dados de outros 22 indivíduos controle que haviam sido submetidos à BCB original em um outro estudo foram incluídos para comparação. Uma fórmula matemática também foi empregada para comparação entre as duas versões da BCB. Estatísticas descritivas e curvas ROC (receiver operator characteristic) foram utilizadas e admitiu-se alfa=0,05. Resultados: Com a versão abreviada, o teste de recordação tardia também teve alta acurácia no diagnóstico de demência, os resultados das fórmulas matemáticas não foram diferentes daqueles obtidos com a versão original, e o tempo médio foi reduzido em 2 minutos e 37 segundos. Conclusões: Esta forma abreviada da BCB é uma ferramenta potencialmente útil para o rastreio de demência em estudos populacionais, bem como para o emprego em prática clínica em países em que há grande heterogeneidade educacional.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538901^dBIREME_LLXPEDT^sS1980-576420090005000200010</field>
+</record>
+
+<record mfn='6' nvf='33' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538900</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a10-ing.pdf?aid2=188&amp;nome_en=v3n4a10-ing.pdf^len.pdf</field>
+  <field tag='10'>Guimarães, Henrique Cerqueira^1Federal University of Minas Gerais^2Faculty of Medicine^3Department of Internal Medicine. Behavioral and Cognitive Neurology Unit^pBrasil^cBelo Horizonte^rorg</field>
+  <field tag='10'>Fialho, Patricia Paes Araujo^1Federal University of Minas Gerais^2Faculty of Medicine^3Department of Internal Medicine. Behavioral and Cognitive Neurology Unit^pBrasil^cBelo Horizonte^rorg</field>
+  <field tag='10'>Carvalho, Viviane Amaral^1Federal University of Minas Gerais^2Faculty of Medicine^3Department of Internal Medicine. Behavioral and Cognitive Neurology Unit^pBrasil^cBelo Horizonte^rorg</field>
+  <field tag='10'>Santos, Etelvina Lucas dos^1Federal University of Minas Gerais^2Faculty of Medicine^3Department of Internal Medicine. Behavioral and Cognitive Neurology Unit^pBrasil^cBelo Horizonte^rorg</field>
+  <field tag='10'>Caramelli, Paulo^1Federal University of Minas Gerais^2Faculty of Medicine^3Department of Internal Medicine. Behavioral and Cognitive Neurology Unit^pBrasil^cBelo Horizonte^rorg</field>
+  <field tag='12'>Brazilian caregiver version of the Apathy Scale</field>
+  <field tag='12'>Versão brasileira direcionada ao cuidador da Escala de Apatia</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: No Brazilian version of a specific scale for evaluating apathy in dementia is available. Objectives: To introduce a translated version of the Apathy Scale (AS) for use with caregivers. Methods: The instrument was formally translated and then administered to the caregivers of a small sample of dementia patients, in order to assess scale comprehensibility and make final adjustments. The scale was subsequently administered to the caregivers of a second, independent sample of Alzheimer's disease (AD) patients. The content validity of the scale was tested by correlating the AS scores with the Neuropsychiatric Inventory (NPI) - apathy sub-score and Disability Assessment in Dementia (DAD) total scores. Results: The first sample consisted of eleven subjects with dementia, most of whom had AD. The second sample comprised twenty patients with probable or possible AD (10 with mild dementia), a mean age of 84.1±5.8 years, and 2.2±1.6 years of schooling. The AS scores correlated with both NPI-apathy sub-score (r=0.756, p=0.001) and DAD total scores (r=?0.793, p=0.0005). Conclusions: The final version had good comprehensibility and correlated strongly with standardized apathy and functional activities of daily living measures.(AU)</field>
+  <field tag='83'>Resumo: Não há versão brasileira de qualquer escala especificamente dedicada à avaliação de apatia nas demências. Objetivos: Apresentar uma versão traduzida da Escala de Apatia direcionada ao cuidador. Métodos: O instrumento foi formalmente traduzido e administrado aos cuidadores de uma pequena amostra de pacientes com demência, para avaliar a compreensibilidade da versão e realizar ajustes finais. Em seguida a escala foi administrada aos cuidadores de uma segunda amostra independente de pacientes com doença de Alzheimer (DA). A validade de conteúdo da escala foi testada correlacionando-se os escores da Escala de Apatia com os subescores de apatia do Inventário Neuropsiquiátrico (NPI) e com os escores totais da escala DAD de incapacidade na demência. Resultados: A primeira amostra consistia de onze pacientes com demência, a maioria com doença de Alzheimer (DA). A segunda amostra possuía vinte pacientes com DA provável ou possível (10 com demência leve), média de idade de 84,1±5,8 anos e escolaridade média de 2,2±1,6 anos. Os escores na Escala de Apatia correlacionaram-se com o subescore apatia do NPI (r=0,756; p=0,001) e com os escores totais da DAD (r=?0,793; p=0,0005). Conclusões: A versão final apresentou boa compreensibilidade e correlacionou-se fortemente com medidas padronizadas de apatia e atividades de vida diária.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538900^dBIREME_LLXPEDT^sS1980-576420090005000200009</field>
+</record>
+
+<record mfn='7' nvf='32' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538899</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a09-ing.pdf?aid2=187&amp;nome_en=v3n4a09-ing.pdf^len.pdf</field>
+  <field tag='10'>Lopes, Marcos^1University of São Paulo^2Department of Linguistics^3Faculty of Philosophy. Letters and Humanities^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Brucki, Sonia Maria Dozzi^1University of São Paulo^2School of Medicine^3Department of Neurology. Cognitive Disorders Reference Center^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Giampaoli, Viviana^1University of São Paulo^2Institute of Mathematics and Statistics^3Department of Statistics^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Mansur, Letícia Lessa^1University of São Paulo^2Medicine School^3Department of Physiotherapy, Speech-Pathology and Occupational Therapy^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Semantic Verbal Fluency test in dementia: preliminary retrospective analysis</field>
+  <field tag='12'>Teste de Fluência Verbal Semântica nas demências: análise preliminar retrospectiva</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The Semantic Verbal Fluency (SVF) test entails the generation of words from a given category within a pre-set time of 60 seconds. Objectives: To verify whether socio-demographic and clinical data of individuals with dementia correlate with the performance on the SVF test and to ascertain whether differences among the criteria of number of answers, clusters and data spread over the intervals, predict clinical results. Methods: This was a retrospective study of 49 charts of demented patients classified according to the Clinical Dementia Rating (CDR) scale. We correlated education, age and gender, as well as CDR and Mini-Mental State Exam (MMSE) scores with the number of answers, clustering and switching distributed over four 15-second intervals on the SVF test. Results: The correlation between number of answers and quartiles was weak (r=0.407, p=0.004; r=0.484, p&lt;0.001) but correlation between the number of clusters and responses was strong (r=0.883, p&lt;0.001). The number of items on the SVF was statistically significant with MMSE score (p=0.01) and there was a tendency for significance on the CDR (p=0.06). The results indicated little activity regarding what we propose to call cluster recalling in the two groups. Discussion: The SVF test, using number of items generated, was found to be more effective than classic screening tests in terms of speed and ease of application in patients with CDR 2 and 3.(AU)</field>
+  <field tag='83'>Resumo: A Fluência Verbal Semântica (FVS) requer a geração de palavras de determinada categoria, num tempo pré-fixado de 60 segundos. Objetivos: Verificar se os dados sociodemográficos e clínicos de indivíduos com demências se correlacionam com a FVS; apontar possíveis diferenças entre critérios de número de respostas, agrupamentos e dados distribuídos nos intervalos predizem resultados clínicos. Métodos: Este é um estudo retrospectivo de 49 prontuários de pacientes com demência, classificados de acordo com a escala de estadiamento de demência (Clinical Dementia Rating-CDR). Foram correlacionados os dados de educação, idade e gênero e CDR e Mini-Exame do Estado Mental (MEEM) ao número de respostas, agrupamentos e mudanças de critério (switchings) gerados, em quatro intervalos de 15 segundos. Resultados: As correlações entre número de respostas, quartis e entre número de respostas e de quartis foram baixas (r=0.407, p=0.004; r=0.484, p&lt;0.001); porém, a correlação foi alta entre número de agrupamentos e de respostas (r=0.883, p&lt;0.001). O número de itens gerados na SVF foi estatisticamente significante com o MMSE (p=0.01) e houve tendência à significância no CDR (p=0.06). Os resultados indicaram pouca atividade daquilo que chamamos de cluster recalling nos dois grupos. Discussão: A FVS com o critério de itens gerados pode ser considerado instrumento clínico vantajoso em relação às varreduras clássicas, em pacientes com CDR 2 e 3, pela rapidez e facilidade de aplicação.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538899^dBIREME_LLXPEDT^sS1980-576420090005000200008</field>
+</record>
+
+<record mfn='8' nvf='37' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538898</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a08-ing.pdf?aid2=186&amp;nome_en=v3n4a08-ing.pdf^len.pdf</field>
+  <field tag='10'>Suemoto, Claudia Kimie^1University of São Paulo^2School of Medicine^3Department of Geriatrics^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Ferretti, Renata Eloah^1University of São Paulo^2School of Medicine^3Department of Pathology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Grinberg, Lea Tenenholz^1University of São Paulo^2School of Medicine^3Department of Pathology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Oliveira, Kátia Cristina de^1University of São Paulo^2School of Medicine^3Department of Pathology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Farfel, José Marcelo^1University of São Paulo^2School of Medicine^3Department of Geriatry^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Leite, Renata Elaine Paraizo^1University of São Paulo^2School of Medicine^3Department of Geriatry^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Nitrini, Ricardo^1University of São Paulo^2School of Medicine^3Department of Neurology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Jacob Filho, Wilson^1University of São Paulo^2School of Medicine^3Department of Geriatry^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Pasqualucci, Carlos Augusto^1University of São Paulo^2School of Medicine^3Department of Geriatry^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Association between cardiovasculardisease and dementia</field>
+  <field tag='12'>Associação entre doença cardiovascular e demência</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Longitudinal studies have shown association between cardiovascular risk factors and dementia. However, these studies are not capable of detecting asymptomatic cardiovascular alterations and thus may provide erroneous estimates of association. Autopsy studies could be more useful in elucidating these questions. The present clinicopathological study sought to examine the relationship between dementia, cardiovascular risk factors and disease. Methods: 603 subjects, who underwent autopsy, were classified regarding the presence of dementia, according to post mortem cognitive classification. Demographics, cardiovascular risk factors, and anatomically-proven cardiovascular disease (myocardial hypertrophy, cerebral and carotid atherosclerosis) were compared among cognitively normal persons and individuals with dementia. Results: Cognitive deficit was associated with advanced age, stroke, physical inactivity and low body mass index (p&lt;0.05). Circle of Willis atherosclerosis was greater in patients with dementia than in controls on univariate analysis (p=0.01). However, this association lost significance when adjusted by age and gender (p=0.61). Heart failure and anatomopathological cardiac parameters were more severe in the control group than in demented individuals (p&lt;0.05). Carotid artery atherosclerosis and intima-media thickness were similar in both groups. Conclusion: Advanced age, stroke, physical inactivity and low body mass index were linked to dementia. Circle of Willis atherosclerosis was associated with dementia only when age was not considered. Our results suggest that cerebral artery atherosclerosis was not directly associated with clinical expression of dementia.(AU)</field>
+  <field tag='83'>Resumo: Estudos longitudinais tem mostrado associação entre fatores de risco cardiovascular e demência. Entretanto, estes estudos não são capazes de detectar alterações cardiovasculares assintomáticas e podem, assim, fornecer estimativas de associação errôneas. Estudos de autópsia podem ser mais úteis em elucidar estas questões. O presente estudo clinicopatológico busca examinar a relação entre demência, fatores e doença cardiovascular. Métodos: 603 sujeitos submetidos à autópsia foram classificados quanto à presença de demência, usando uma classificação cognitiva post-mortem. Dados demográficos, fatores de risco cardiovascular e doença cardiovascular comprovada anatomicamente (hipertrofia miocárdica, aterosclerose cerebral e carotídea) foram comparados entre indivíduos cognitivamente normais e com demência. Resultados: Déficit cognitivo esteve associado à idade avançada, acidente vascular cerebral, sedentarismo e baixo índice de massa corpórea (p&lt;0,05). Aterosclerose do polígono de Willis foi maior em pacientes com demência do que em controles na análise univariada (p=0,01). Insuficiência cardíaca e parâmetros anatomopatológicos cardíacos foram mais graves entre o grupo controle que entre os indivíduos dementados (p&lt;0,05). Aterosclerose de artérias carótidas e espessura íntima-média foram similares entre os grupos. Conclusão: Idade avançada, acidente vascular cerebral, sedentarismo e baixo índice de massa corpórea estiveram relacionados à demência. Aterosclerose de polígono de Willis esteve associada à demência, somente quando a idade não foi considerada. Nossos resultados sugerem que a aterosclerose de artérias cerebrais não está diretamente relacionada com a expressão clínica de demência.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538898^dBIREME_LLXPEDT^sS1980-576420090005000200007</field>
+</record>
+
+<record mfn='9' nvf='33' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538897</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a07-ing.pdf?aid2=185&amp;nome_en=v3n4a07-ing.pdf^len.pdf</field>
+  <field tag='10'>Moschetta, André Luiz^1Pontifical Catholic University^2Institute of Geriatrics and Gerontology^pBrasil^cPorto Alegre^rorg</field>
+  <field tag='10'>Silveira, Carine Volkweis^1Pontifical Catholic University^2Institute of Geriatrics and Gerontology^pBrasil^cPorto Alegre^rorg</field>
+  <field tag='10'>Dalacorte, Roberta Rigo^1Pontifical Catholic University^2Institute of Geriatrics and Gerontology^pBrasil^cPorto Alegre^rorg</field>
+  <field tag='10'>Schneider, Rodolfo Herberto^1Pontifical Catholic University^2Institute of Geriatrics and Gerontology^pBrasil^cPorto Alegre^rorg</field>
+  <field tag='10'>Silva Filho, Irênio Gomes da^1Pontifical Catholic University^2Pontifical Catholic University^3Institute of Geriatrics and Gerontology^pBrasil^cPorto Alegre^rorg</field>
+  <field tag='12'>Time of delirium onset and prognosis amongst Southern Brazilian hospitalized elderly patients</field>
+  <field tag='12'>Momento de início do delirium e prognóstico em pacientes idosos hospitalizados no sul do Brasil</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The prognostic significance of delirium in hospitalized elderly has not yet been fully clarified. Objectives: The present study was designed to evaluate the relationship between prevalent delirium (PrD), incident delirium (InD) and final outcome. Methods: A historical cohort of 261 patients was selected. delirium was diagnosed using the Confusion Assessment Method. Results: The total frequency of delirium detected was 42.5%-31.4% PrD and 16.2% InD. Among patients with InD, the average length of hospital stay was 9.1 days longer than for patients without delirium (p=0.002), and the hospital mortality associated with InD was 48% versus 2.7% for those without delirium (p&lt;0.001). However, no difference was observed between patients with PrD and those without delirium. Conclusions: These results suggest that, when investigating delirium and prognosis amongst hospitalized elderly, it is fundamental to differentiate in terms of time of onset. Furthermore, the absence of delirium seems to be an important protective factor.(AU)</field>
+  <field tag='83'>Resumo: O significado do prognóstico de delirium em idosos hospitalizados ainda não está completamente elucidado. Objetivos: O presente estudo foi designado para avaliar a relação entre delirium prevalente (DeP), delirium incidente (DeI) e o desfecho final. Métodos: Uma coorte histórica de 261 pacientes foi selecionada. delirium foi diagnosticado pelo Confusion Assessment Method. Resultados: A freqüência total de delirium foi de 42.5%, DeP 31.4%, e DeI 16.2%. Para pacientes com DeI, a média de duração de hospitalização foi 9.1 dias maior do que aqueles sem delirium (p=0.002), e a mortalidade hospitalar associada a DeI foi de 48.3% contra 2.7% dos livres de delirium (p&lt;0.001). Contudo, não houve diferença entre pacientes com DeP e sem delirium. Conclusões: Os resultados sugerem que, ao estudar delirium e prognóstico entre idosos hospitalizados, é fundamental diferenciar o problema quanto ao seu momento de início. Além disso, não apresentar delirium parece constituir-se num fator protetor importante.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538897^dBIREME_LLXPEDT^sS1980-576420090005000200006</field>
+</record>
+
+<record mfn='10' nvf='31' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538896</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a06-ing.pdf?aid2=184&amp;nome_en=v3n4a06-ing.pdf^len.pdf</field>
+  <field tag='10'>Meguro, Mitsue^1Tohoku University^2Graduate School of Medicine^3Department of Geriatric Behavioral Neurology^pJapan^cSendai^rorg</field>
+  <field tag='10'>Ishizaki, Junichi^1Tohoku University^2School of Medicine^3Department of Geriatric Behavioral Neurology^pJapan^cSendai^rorg</field>
+  <field tag='10'>Meguro, Kenichi^1Tohoku University^2School of Medicine^3Department of Geriatric Behavioral Neurology^pJapan^cSendai^rorg</field>
+  <field tag='12'>Collage technique may provide new perspectives for Alzheimer patients by exploring messages from their inner world</field>
+  <field tag='12'>Técnica de colagem pode dar novas perspectivas para pacientes com doença de Alzheimer através da exploração do seu mundo interior</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract:  Although the collage art technique has been introduced as a psychotherapeutic method, it has not been fully applied in dementia. Objectives: To analyze characteristics of the collage articles produced by patients with Alzheimer's disease (AD). Methods: Twenty AD patients were asked to select and place several clippings as they wished. The MMSE was used for cognitive assessments. Results: Simplification and poor organization in their articles were found. The themes of one patient were found to change according to behavior.  We discussed the images of the articles, especially spiritual images in the early stage and family images in the later stage. Conclusions: We concluded that the collage technique could provide new perspectives for dementia patients by exploring messages from their inner world.(AU)</field>
+  <field tag='83'>Resumo:  Embora a técnica de colagem tenha sido introduzida como um método psicoterapêutico, ela não foi totalmente aplicada em demência. Objetivos: Analisar as características de trabalhos de colagens feitos por pacientes com doença de Alzheimer (DA). Métodos: A 20 pacientes foi solicitado que selecionassem e colocassem peças que apreciassem. O MEEM foi utilizado para avaliação cognitiva. Resultados: Simplificação e organização pobres foram encontradas. Nós demonstramos um paciente cujos temas foram mudando em relação ao comportamento. Nós discutimos as imagens dos artigos, especialmente imagens espirituais no estágio precoce e imagens familiares no estágio tardio. Conclusões: Nós consideramos que a técnica de colagem poderia dar novas perspectivas na demência, explorando a mensagem do mundo interior.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538896^dBIREME_LLXPEDT^sS1980-576420090005000200005</field>
+</record>
+
+<record mfn='11' nvf='31' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538895</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a05-ing.pdf?aid2=183&amp;nome_en=v3n4a05-ing.pdf^len.pdf</field>
+  <field tag='10'>Oliveira, Maira Okada de^1University of São Paulo^2School of Medicine^3Hospital das Clínicas. Department of Neurology. Cognitive Disorders Reference Center^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Porto, Cláudia Sellitto^1University of São Paulo^2School of Medicine^3Hospital das Clínicas. Department of Neurology. Cognitive Disorders Reference Center^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Brucki, Sonia Maria Dozzi^1University of São Paulo^2School of Medicine^3Department of Neurology. Cognitive Disorders Reference Center. Hospital Santa Marcelina^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>S-TOFHLA in mild Alzheimer's disease andMild Cognitive Impairment patientsas a measure of functional literacy: preliminary study</field>
+  <field tag='12'>S-TOFHLA em pacientes com doença de Alzheimer Leve e Comprometimento Cognitivo Leve como medida de alfabetismo funcional: estudo preliminar</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The greatest difficulty in diagnosing cognitive loss in our population is the diversity of its education which has a broad spectrum ranging from illiteracy, functional illiteracy and different degrees of literacy, even in those with the same level of schooling. Objectives: To verify whether there is impairment on the S-TOFHLA among individuals with AD and MCI compared with healthy controls, and to compare performance on the S-TOFHLA performance with neuropsychological tests and the scores achieved on the Raven's Colored Matrices and Vocabulary and Block Design (WAIS-III) as a measure of estimated intellectual level. Methods: 59 subjects: controls (n=23; age 70.96±8.31y; schooling 10.2±5.87y; 6 men), MCI patients (n=11; age 74.18±8.12y; schooling 7.55±4.32y; 5 men) and AD patients (n=25; age 76.16±4.96y; schooling 7.32±4.78y; 10 men) were submitted to neuropsychological assessment, S-TOFHLA and functional evaluation. Results: Differences on BD, Raven and Estimated IQ were found between controls and MCI patients as well as controls and AD patients. On the S-TOFHLA, differences were found between MCI and AD patients, controls and AD patients, but not between control and MCI groups. S-TOFHLA performance correlated strongly with schooling and all neuropsychological tests, except Clock Drawing. Conclusions: The S-TOFHLA seems to be a useful measure for determining the level of literacy in MCI patients, but not in AD patients. S-TOFHLA performance was more closely associated with neuropsychological test scores than were years of education and seems to be a good predictor of level of literacy. The Vocabulary subtest proved to be uninfluenced by the disease process in early stages and preserved in both MCI and AD patients, showing that semantic memory and crystallized intelligence are preserved.(AU)</field>
+  <field tag='83'>Resumo: A maior dificuldade no diagnóstico de perda cognitiva na nossa população é sua heterogeneidade educacional, com um espectro que vai do analfabetismo, analfabetismo funcional até os escolarizados com diferentes graus de alfabetização mesmo com o mesmo grau de escolarização. Objetivos: Verificar se existe comprometimento no S-TOFHLA em indivíduos com DA Leve e CCL comparados a controle saudáveis, correlacionando o desempenho do S-TOFHLA à avaliação neuropsicológica e aos escores alcançados no teste Matrizes Progressivas Coloridas de Raven e nos subtestes vocabulário e cubos (WAIS-III) como medida de nível intelectual estimado. Métodos: 59 sujeitos controles (n=23; idade 70.96±8.31 anos; escolaridade 10.2±5.87 anos; 6 homens), pacientes com CCL (n=11; idade 74.18±8.12 anos; escolaridade 7.55±4.32 anos; 5 homens) e pacientes com DA (n=25; idade 76.16±4.96; escolaridade 7.32±4.78;10 homens) foram submetidos a avaliação neuropsicológica, S-TOFHLA e avaliação funcional. Resultados: Em Cubos, Raven e QI Estimado foram encontradas diferenças estatísticas entre controle e pacientes com CCL; controles e pacientes com DA, mas não entre os grupos controle e CCL. O S-TOFHLA correlacionou fortemente com escolaridade e todos os testes neuropsicológicos, exceto Desenho do Relógio. Conclusões: O S-TOFHLA demonstrou ser uma medida útil em determinar o nível de alfabetismo em paciente com CCL, mas não em pacientes com DA. O S-TOFHLA apresentou maior foi mais relacionado com testes neuropsicológicos do que anos de escolaridade e parece ser um bom preditor do nível de alfabetismo. O subteste Vocabulário demonstrou ser um teste que não sofre com o processo da doença nos estágios iniciais não sofrendo alterações em pacientes com CCL e DA mostrando que memória semântica e inteligência cristalizada são preservadas.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538895^dBIREME_LLXPEDT^sS1980-576420090005000200004</field>
+</record>
+
+<record mfn='12' nvf='34' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538894</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a04-ing.pdf?aid2=182&amp;nome_en=v3n4a04-ing.pdf^len.pdf</field>
+  <field tag='10'>Apolinario, Daniel^1University of São Paulo^2School of Medicine^3Department of Clinical Medicine. Geriatric Service. Memory and Aging Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Magaldi, Regina Miksian^1University of São Paulo^2School of Medicine^3Department of Clinical Medicine. Geriatric Service. Memory and Aging Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Busse, Alexandre Leopold^1University of São Paulo^2School of Medicine^3Department of Clinical Medicine. Geriatric Service. Memory and Aging Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Lopes, Leonardo da Costa^1University of São Paulo^2School of Medicine^3Department of Clinical Medicine. Geriatric Service. Memory and Aging Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Kasai, Juliana Yumi Tison^1University of São Paulo^2School of Medicine^3Department of Clinical Medicine. Geriatric Service. Memory and Aging Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Satomi, Erika^1University of São Paulo^2School of Medicine^3Department of Clinical Medicine. Geriatric Service. Memory and Aging Unit^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Cognitive impairment and driving: a review of the literature</field>
+  <field tag='12'>Comprometimento cognitivo e direção veicular: uma revisão da literatura</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Although some drivers with mild dementia may continue to drive after the condition has been diagnosed, the ability to drive a motor vehicle safely is eventually lost as the disease progresses. Clinicians involved in dementia care are often asked to make an assessment on whether a patient is fit to drive, even though they often lack basic knowledge and formal training in this area. The purpose of this review was to identify the factors that may differentiate safe from unsafe drivers with cognitive impairment and to discuss management strategies. Isolated information about staging measures or particular cognitive tests was found to be insufficient for decision making. Driving fitness counseling for patients with cognitive impairment requires a solid knowledge base, comprehensive assessment and thoughtful communication.(AU)</field>
+  <field tag='83'>Resumo: Alguns pacientes com demência leve continuam a dirigir após o diagnóstico, mas a habilidade de conduzir um veículo automotor com segurança é perdida à medida que a doença progride. Apesar de muitas vezes não reunirem conhecimento e treinamento formal para essa tarefa, os profissionais de saúde envolvidos na atenção ao paciente com demência precisam emitir recomendações relativas à capacidade desses indivíduos em conduzir um veículo. Essa revisão tem o objetivo de identificar fatores que possam determinar se um indivíduo com comprometimento cognitivo é capaz de conduzir um veículo com segurança. Informações isoladas relativas ao estadiamento ou a testes cognitivos específicos não parecem ser suficientes para uma tomada de decisão apropriada. O aconselhamento nessa situação exige conhecimentos sólidos aplicados a uma avaliação ampla, além de estratégias de comunicação apropriadas ao contexto.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538894^dBIREME_LLXPEDT^sS1980-576420090005000200003</field>
+</record>
+
+<record mfn='13' nvf='30' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538893</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a03-ing.pdf?aid2=181&amp;nome_en=v3n4a03-ing.pdf^len.pdf</field>
+  <field tag='10'>Balardin, Joana Bisol^1University of São Paulo^2 Medical School^3Department of Neurology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Miotto, Eliane Correa^1University of São Paulo^2Medical School^3Department of Neurology. Division of Psychology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>A review of Constraint-Induced Therapy applied to aphasia rehabilitation in stroke patients</field>
+  <field tag='12'>Uma revisão sobre a Terapia Induzida por Contenção aplicada à reabilitação da afasia em pacientes pós acidente vascular cerebral (AVC)</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Constraint-induced aphasia therapy (CIAT) is an intensive therapy model based on the forced use of verbal oral language as the sole channel of communication, while any alternative communication mode such as writing, gesturing or pointing are prevented. Objectives: This critical review involved the analysis of studies examining CIAT applied to stroke patients. Methods and Results: Using keywords, the Medline database was searched for relevant studies published between 2001 and 2008 (Medline 2001-2008). The critical evaluation of the articles was based on the classifications described by the ASNS (Cicerone adaptation). Two studies were categorized as level Ia, two as level II and one study as level IV. Conclusions: These recommendations should be interpreted with caution, given the small number of studies involved, but serve as a guideline for future studies in aphasia therapy.(AU)</field>
+  <field tag='83'>Resumo: A Terapia Induzida por Contenção aplicada à reabilitação da afasia é um modelo terapêutico intensivo que presume o treinamento da linguagem oral como exclusivo canal de comunicação verbal, enquanto métodos alternativos como a escrita, o desenho e os gestos não são permitidos. Objetivos: Revisar sistematicamente os estudos que examinaram a aplicabilidade da Terapia Induzida por Contenção em pacientes afásicos pós AVC. Métodos e Resultados: Os estudos relacionados ao tema foram selecionados na base de dados Medline, por meio de descritores, entre os anos de 2001 e 2008. A avaliação crítica dos artigos foi realizada de acordo com a classificação descrita pela ASNS (adaptado por Cicerone). Dois estudos foram categorizados como Ia, dois estudos receberam classificação II e um estudo foi categorizado no nível IV. Conclusões: Dado o limitado número de estudos existente, as recomendações sugeridas devem ser interpretadas com precaução, porém fornecem importantes diretrizes para futuros estudos sobre a terapia de afasia.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538893^dBIREME_LLXPEDT^sS1980-576420090005000200002</field>
+</record>
+
+<record mfn='14' nvf='32' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538892</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n4a02-ing.pdf?aid2=180&amp;nome_en=v3n4a02-ing.pdf^len.pdf</field>
+  <field tag='10'>Vasconcelos, Luciano de Gois^1Federal University of São Paulo^2Psychobiology Department^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Brucki, Sonia Maria Dozzi^1Federal University of São Paulo^2Psychobiology Department^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Jackowiski, Andrea Parolin^1Federal University of São Paulo^2Psychiatry Department^pBrasil^cSão Paulo</field>
+  <field tag='10'>Bueno, Orlando Francisco Amodeo^1Federal University of São Paulo^2Psychobiology Department^pBrasil^cSão Paulo</field>
+  <field tag='12'>Diffusion tensor imaging for Alzheimer's disease: a review of concepts and potential clinical applicability</field>
+  <field tag='12'>Imagem do tensor de difusão na doença de Alzheimer: revisão de conceitos e potenciais aplicabilidades clínicas</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>4</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>dezembro/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: In view of the urgent need to identify an early and specific biomarker for Alzheimer's disease (AD), a PubMed database search was performed using the terms "Alzheimer disease" and "Diffusion Magnetic Resonance Imaging" to enable review of Diffusion tensor imaging (DTI) concepts and its potential clinical role in AD evaluation. Detailed analysis of selected abstracts showed that the main DTI measures, fractional anisotropy and apparent diffusion coefficient, indicators of fiber tract integrity, provide a direct assessment of WM fibers and may be used as a new biomarker for AD. These findings were found to correlate with cognitive assessments, rates of AD progression and were also able to differentiate among groups including mild cognitive impairment, AD, and other dementias. Despite several consistent DTI findings in AD patients, there is still a lack of knowledge and studies on the DTI . DTI is not yet ready for clinical use, and requires extensive further research in order to achieve this goal.(AU)</field>
+  <field tag='83'>Resumo: Considerando a urgência em se determinar biomarcadores específicos e precoces da doença de Alzheimer (DA), realizou-se pesquisa bibliográfica no banco de dados Pubmed com os termos "Alzheimer disease" e "Diffusion Magnetic Resonance Imaging" objetivando-se revisar conceitos e utilidades clínicas da imagem do tensor de difusão (DTI) na avaliação da DA. A análise dos resumos selecionados mostrou que as principais medidas da DTI, anisotropia fracional e coeficiente de difusão aparente, indicadores de integridade dos feixes nervosos fornecem uma análise direta das fibras de substância branca e podem ser utilizadas como biomarcadores da DA. Estes achados correlacionaram-se com avaliações neuropsicológicas, taxa de progressão da DA e identificou grupos heterogêneos como declínio cognitivo leve, DA e outras demências. Apesar dos vários e consistentes achados da DTI na DA, ainda tem-se carência de conhecimento e pesquisas nesta área. DTI não está pronto para o uso clínico e muito trabalho deve ser realizado para obtenção deste objetivo.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538892^dBIREME_LLXPEDT^sS1980-576420090005000200001</field>
+</record>
+
+<record mfn='15' nvf='31' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538891</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a10.pdf?aid2=174&amp;nome_en=v3n3a10.pdf^len.pdf</field>
+  <field tag='10'>Quental, Natália Bezerra Mota^1Federal University of São Paulo^2Department of Psychobiology ^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Brucki, Sonia Maria Dozzi^1Federal University of São Paulo^2Department of Psychobiology ^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Bueno, Orlando Francisco Amodeo^1Federal University of São Paulo^2Department of Psychobiology ^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Visuospatial functionin early Alzheimer?s disease:preliminary study</field>
+  <field tag='12'>Funções visoespaciais na doença de Alzheimer de intensidade leve: estudo preliminar</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract ? Alzheimer?s disease (AD) is the most frequent cause of dementia, accounting for 55% of all cases. AD patients gradually lose functional capacity, manifesting deficits in attention, language, temporal and direction orientation, mood, socialization and visuospatial function. The visuospatial function entails identification of a stimulus and its location. AD patients can present deficits in visuo-spatial skills during initial stages of the disease, but in the course of clinical evolution this function can become severely impaired. One of the neuropsychological tests indicated to evaluate the visuospatial function is the VOSP (The Visual Object and Space Perception Battery). Objectives: The aim of this preliminary study was to detect visuospatial dysfunction in early AD patients using the VOSP, and assess its sensitivity in a Brazilian sample. Results: Controls outperformed AD patients on all neuropsychological evaluations, except the Corsi block tapping task and cancellation task-errors. The AD patients performed significantly worse on all object perception and two space perception (Number Location and Cube Analyses) subtests of the VOSP. Conclusion: The AD patients demonstrated impaired visuospatial function in several aspects. The subtests of the VOSP were found to be sensitive for detecting this impairment in mild cases.(AU)</field>
+  <field tag='83'>Resumo ? A doença de Alzheimer (DA) é a causa mais frequente de demencia, atingindo 55% dos casos. Os pacientes com DA gradativamente perdem a capacidade funcional, apresentando comprometimento na atenção, na linguagem, na orientação temporal e espacial, uso de objetos, no humor, na socialização, na função visuoespacial. A função visuoespacial diz respeito a identificação de um estímulo e a sua localização. O paciente com DA pode apresentar perdas da habilidade visuo-espacial no início da doença, contudo no curso do quadro clínico esta função deve apresentar-se bastante comprometida. Um dos instrumentos utilizados para avaliar a função visuo-espacial é o VOSP (Visual Object and Space Perception Battery). Objetivos: A proposta deste estudo é avaliar as alterações na função visuoespacial em pacientes com DA de intensidade leve com a VOSP, e verificar a sensibilidade desta bateria em uma amostra brasileira. Resultados: Os controles obtiveram melhores resultados em todos os testes neuropsicológicos, com excessão do Blocos de Corsi e no teste de cancelamento - erros. Nos subtestes da VOSP os pacientes com DA mostraram uma significativa diferença em todos os subtestes de percepção de objeto e em dois de percepção de lugar (Localização de Número e Análise de Cubo). Conclusão: Os pacientes com DA leve mostraram ter a função visuoespacial comprometida em alguns aspectos. Os subtestes da VOSP mostraram-se sensiveis a esses déficits na fase leve da doença.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538891^dBIREME_LLXPEDT^sS1980-576420090004000100021</field>
+</record>
+
+<record mfn='16' nvf='31' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538890</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a09.pdf?aid2=173&amp;nome_en=v3n3a09.pdf^len.pdf</field>
+  <field tag='10'>Engelhardt, Eliasz^1Federal University of Rio de Janeiro^2Cognitive and Behavioral Neurology Unit ^pBrasil^cRio de Janeiro^rorg</field>
+  <field tag='10'>Moreira, Denise Madeira^1Federal University of Rio de Janeiro^2Neuroimaging Unit^pBrasil^cRio de Janeiro^rorg</field>
+  <field tag='10'>Laks, Jerson^1Federal University of Rio de Janeiro^2Center for Alzheimer?s Disease^pBrasil^cRio de Janeiro^rorg</field>
+  <field tag='12'>The brain subcortical white matter and aging:a quantitative fractional anisotropy analysis</field>
+  <field tag='12'>Substância branca cerebral e envelhecimento: análise com anisotropia fracionada quantitativa</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract ? To study the integrity of hemispheric subcortical white matter by comparing normal young and elderly subjects using quantitative fractional anisotropy (DTI-FA). Methods: Subjects of two different age groups (young=12, elderly=12) were included. MR - GE Signa Horizon - 1.5T scans were performed. Cases with Fazekas scores ?3 were assessed on FLAIR sequence. Standard parameters for DTI-FA were used. ROIs were placed at various sites of the subcortical white matter, and the genu and splenium of the midline corpus callosum. Analysis was performed using Functool. Statistics for anterior and posterior white matter, as well as the genu and splenium were compared between the groups. The study was approved by the Ethics Committee of IPUB-UFRJ and informed consent obtained. Results: DTI-FA showed lower anisotropy values in the anterior region (subcortical white matter and genu), but not in the posterior region (subcortical white matter and splenium), in elderly normal subjects compared to young subjects. Conclusion: The results may represent loss of integrity of anterior (frontal) white matter fibers in the elderly subjects. These fibers constitute important intra- and inter-hemispheric tracts, components of neural networks that provide cognitive, behavioral, motor and sensory integration. The loss of integrity of the anterior segments of the studied fiber systems with ageing, represents a disconnection process that may underlie clinical manifestations found in elderly subjects such as executive dysfunction.(AU)</field>
+  <field tag='83'>Resumo ? Estudar a integridade da substância branca hemisférica subcortical, comparando sujeitos normais jovens e idosos, com anisotropia fracionada quantitativa (DTI-FA). Métodos: Foram incluídos sujeitos de dois grupos etários (jovem=12, idoso=12). Obtidas imagens de MR - GE Signa Horizon - 1.5T. Escore de Fazekas ?3 avaliado na sequência em FLAIR. Utilizados parâmetros padrão para DTI-FA. ROIs colocados em locais variados da substância branca subcortical, e no joelho e esplênio do corpo caloso na linha média. Análise com Functool. Estatística para comparar a substância branca anterior e posterior entre os grupos. Aprovado pela Comissão de Ética do IPUB-UFRJ, consentimento informado obtido. Resultados: DTI-FA mostrou redução dos valores de anisotropia na região anterior (substância branca subcortical e joelho), porém não na região posterior (substância branca subcortical e esplênio), nos sujeitos normais idosos em comparação aos jovens. Conclusão: Os resultados podem ser considerados como representando perda da integridade das fibras da substância branca anterior (frontal) no sujeitos do grupo idoso. Tais fibras constituem os importantes feixes intra- e inter-hemisféricos, componentes de redes neurais relacionadas com integração cognitiva, comportamental, motora e sensorial. A perda da integridade com o envelhecimento dos segmentos anteriores dos sistemas de fibras estudados representa um processo de desconexão que pode estar subjacente a manifestações clínicas, como a disfunção executiva, eventualmente encontradas em sujeitos idosos.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538890^dBIREME_LLXPEDT^sS1980-576420090004000100020</field>
+</record>
+
+<record mfn='17' nvf='33' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538889</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a08.pdf?aid2=172&amp;nome_en=v3n3a08.pdf^len.pdf</field>
+  <field tag='10'>Nunes, Maria Vania Silva^1Faculdade de Medicina ^2Neurological Clinical Research Unit^pPortugal^cLisbon^rorg</field>
+  <field tag='10'>Castro-Caldas, Alexandre^1Faculdade de Medicina ^2Neurological Clinical Research Unit^pPortugal^cLisbon^rorg</field>
+  <field tag='10'>Del Rio, Dolores ^1Facultad de Medicina^2Centro de Magnetoencefalografía Dr. Pérez Modrego^p España^cMadrid^rorg</field>
+  <field tag='10'>Maestú, Fernado^1Facultad de Medicina^2Centro de Magnetoencefalografía Dr. Pérez Modrego^pEspaña^cMadrid^rorg</field>
+  <field tag='10'>Ortiz, Tomás^1Facultad de Medicina^2Centro de Magnetoencefalografía Dr. Pérez Modrego^pEspaña^cMadrid^rorg</field>
+  <field tag='12'>The ex-illiterate brain:the critical period, cognitive reserve and HAROLD model</field>
+  <field tag='12'>O cérebro ex-analfabeto: o período crítico, reserva cognitiva e o modelo HAROLD</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract ? The lifelong acquisition of cognitive skills shapes the biology of the brain. However, there are critical periods for the best use of the brain to process the acquired information. Objectives: To discuss the critical period of cognitive acquisition, the concept of cognitive reserve and the HAROLD (Hemispheric Asymmetry Reduction in Older adults) model. Methods: Seven women who learned how to read and to write after the age of 50 (ex-illiterates) and five women with 10 years of regular schooling (controls) were submitted to a language recognition test while brain activity was being recorded using magnetoencephalography. Spoken words were delivered binaurally via two plastic tubs terminating in ear inserts, and recordings were made with a whole head magnetometer consisting of 148 magnetometer coils. Results: Both groups performed similarly on the task of identifying target words. Analysis of the number of sources of activity in the left and right hemispheres revealed significant differences between the two groups, showing that ex-illiterate subjects exhibited less brain functional asymmetry during the language task. Conclusions: These results should be interpreted with caution because the groups were small. However, these findings reinforce the concept that poorly educated subjects tend to use the brain for information processing in a different way to subjects with a high educational level or who were schooled at the regular time. Finally, the recruiting of both hemispheres to tackle the language recognition test occurred to a greater degree in the ex-illiterate group where this can be interpreted as a sign of difficulty performing the task.(AU)</field>
+  <field tag='83'>Resumo ? A aquisição ao longo da vida de competências cognitivas moldam a biologia do cérebro. No entanto, existem períodos críticos para o cérebro processar melhor as informações adquiridas. Objetivos: Discutir o período crítico de aquisição cognitiva, o conceito de reserva cognitiva e o modelo HAROLD (Redução da Assimetria Hemisférica em Idosos). Métodos: Sete mulheres que aprenderam a ler e escrever após a idade de 50 anos (ex-analfabetos) e cinco mulheres com 10 anos de escolaridade regular (controles) foram submetidas a um teste de reconhecimento de palavras enquanto a atividade cerebral estava sendo registrada mediante magnetoencefalografia. As palavras foram ouvidas com o emprego de dois tubos plásticos conectados a cada orelha e as gravações foram feitas com um magnetômetro de cabeça inteira com 148 bobinas de registro. Resultados: Ambos os grupos tiveram desempenho semelhante na identificação das palavras-alvo. Análise do número de fontes de atividade no hemisfério esquerdo e no hemisfério direito revelou diferenças significativas entre os dois grupos, mostrando que os ex-analfabetos tiveram menor assimetria cerebral funcional no desempenho da tarefa. Conclusões: Estes resultados devem ser interpretados com cautela, pois os grupos são pequenos. No entanto, reforçam o conceito que os indivíduos com baixa escolaridade tendem a usar o cérebro para processar informações de uma forma diferente do que indivíduos com nível educacional elevado ou que tenham o adquirido na época regular. Finalmente, o recrutamento de ambos os hemisférios para reconhecer as palavras ocorreu mais intensamente no grupo de ex-analfabetos e pode ser interpretado como um sinal de maior dificuldade na tarefa.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538889^dBIREME_LLXPEDT^sS1980-576420090004000100019</field>
+</record>
+
+<record mfn='18' nvf='29' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538888</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a07.pdf?aid2=171&amp;nome_en=v3n3a07.pdf^len.pdf</field>
+  <field tag='10'>Pimentel, Érica Maria Lima^1Universidade Federal do Ceará^pBrasil^cFortaleza^rorg</field>
+  <field tag='12'>Role of neuropsychological assessment in the differential diagnosis ofAlzheimerïs disease and vascular dementia</field>
+  <field tag='12'>Contribuição da avaliação neuropsicológica no diagnóstico diferencial da doença de Alzheimer e demência vascular</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The prevalence of dementia increases significantly from the age of 65 years, doubling every five years thereafter. Alzheimer`s disease (AD) and vascular dementia (VaD) constitute the two main dementia types. Differentiating them encompasses anamnesis, neurological examination, laboratory and neuroimaging exams and neuropsychological assessment. Neuropsychological assessment produces different findings for each dementia type, and reveals those areas most impaired as well as those most preserved. The aim of the present article was to describe the role of neuropsychology in diagnosing dementia and achieving a differential diagnosis between AD and VaD. A general overview follows of the most widely known instruments used to assess cognitive function in dementia, and the cognitive changes seen in AD and VaD. The conclusion drawn was that there is significant overlap in cognitive changes between both these dementia types, while each type has its own specific characteristics which are identifiable and quantifiable on neuropsychological assessments and provide the basis for reaching a differential diagnosis.(AU)</field>
+  <field tag='83'>Resumo: A prevalência de demência aumenta de maneira expressiva a partir dos 65 anos, dobrando a cada cinco anos. Doença de Alzheimer (DA) e demência vascular (DVa) são os seus dois principais tipos. O diagnóstico diferencial entre DA e DVa engloba anamnese adequada, exame neurológico, exames laboratoriais e de neuroimagem e avaliação neuropsicológica. Dentro da avaliação neuropsicológica, é possível observar as diferenças nos achados para cada demência, as áreas mais comprometidas e aquelas que ainda estão preservadas. O presente artigo tem como objetivo descrever a contribuição da neuropsicologia para o diagnóstico das demências e para o diagnóstico diferencial entre DA e DVa. É apresentada uma visão geral dos instrumentos mais conhecidos e utilizados para avaliar a função cognitiva na demência e as alterações cognitivas encontradas na DA e na DVa. Conclui-se que existe importante sobreposição das alterações cognitivas em ambas, contudo cada uma possui características particulares que podem ser identificadas e quantificadas pela avaliação neuropsicológica e que contribui para o diagnóstico diferencial.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100221</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538888^dBIREME_LLXPEDT^sS1980-576420090004000100018</field>
+</record>
+
+<record mfn='19' nvf='32' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538887</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a05.pdf?aid2=169&amp;nome_en=v3n3a05.pdf^len.pdf</field>
+  <field tag='10'>Busse, Alexandre Leopold ^1University of São Paulo^2Hospital das Clínicas^3Department of Clinical Medicine. Geriatric Service^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Gil, Gislaine ^1University of São Paulo ^2Faculdade of Medicine^3Hospital das Clínicas. Alemão Oswaldo Cruz Hospital. Memory Stimulus Center. Fleury laboratories^pBrasil^cSão Paulo</field>
+  <field tag='10'>Santarém, José Maria ^1University of São Paulo^2Faculty of Medicine^3Geriatrics Discipline of the FMUSP. Center for Studies in Physical Activity Sciences^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Jacob Filho, Wilson ^1University of São Paulo^2School of Medicine^3Geriatrics Discipline^pBrasil^cSão Paulo^rcoord</field>
+  <field tag='12'>Physical activity and cognition in the elderly: a review</field>
+  <field tag='12'>Atividade física e cognição em idosos: uma revisão</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Physical activity has been indicated as a strategy to promote health in the elderly, as well as to encourage the maintenance of functional capacity, and acts in the prevention and control of various diseases. In recent years, there has been great interest in studying the benefits of physical activity in the preservation or even improvement of cognitive performance in both the elderly without cognitive impairment and in elderly patients with some degree of cognitive impairment or dementia. The majority of epidemiological studies and clinical trials have evaluated aerobic exercises while few have assessed resistance exercise programs. The objective of this review was to examine the effects of different types of physical activity on cognitive function of elderly individuals with or without prior impairment.(AU)</field>
+  <field tag='83'>Resumo: A atividade física tem sido amplamente indicada como uma estratégia para a promoção de saúde no idoso, pois além de favorecer a manutenção da capacidade funcional, atua na prevenção e controle de diversas doenças. Nos últimos anos, tem havido um forte interesse em estudar os benefícios da atividade física na preservação ou mesmo na melhora do desempenho cognitivo tanto em idosos sem comprometimento cognitivo como em idosos com algum comprometimento cognitivo e demência. Os estudos epidemiológicos e a maioria dos ensaios clínicos avaliaram os exercícios aeróbios e poucos ensaios clínicos adotaram programas de exercícios resistidos. O objetivo desta revisão é analisar os efeitos de diferentes tipos de atividade física na função cognitiva de idosos com ou sem comprometimento prévio.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538887^dBIREME_LLXPEDT^sS1980-576420090004000100016</field>
+</record>
+
+<record mfn='20' nvf='32' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538886</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a04.pdf?aid2=168&amp;nome_en=v3n3a04.pdf^len.pdf</field>
+  <field tag='10'>Kanda, Paulo Afonso de Medeiros^1University of São Paulo ^2School of Medicine^3Cognitive Disorders of Clinicas Hospital Reference Center^pBrasil ^cSão Paulo^rorg</field>
+  <field tag='10'>Anghinah, Renato^1University of São Paulo^2School of Medicine^3Cognitive Disorders of Clinicas Hospital Reference Center^pBrasil^cSão  Paulo^rorg</field>
+  <field tag='10'>Smidth, Magali Taino^1University of São Paulo^2School of Medicine^3Cognitive Disorders of Clinicas Hospital Reference Center^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Silva, Jorge Mario^1University of São Paulo^2School of Medicine^3Cognitive Disorders of Clinicas Hospital Reference Center^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>The Clinical use of quantitative EEG in cognitive disorders</field>
+  <field tag='12'>A utilização clínica do EEG quantitativo nos transtornos cognitivos</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>En</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The primary diagnosis of most cognitive disorders is clinically based, but the EEG plays a role in evaluating, classifying and following some of these disorders. There is an ongoing debate over routine use of qEEG. Although many findings regarding the clinical use of quantitative EEG are awaiting validation by independent investigators while confirmatory clinical follow-up studies are also needed, qEEG can be cautiously used by a skilled neurophysiologist in cognitive dysfunctions to improve the analysis of background activity, slow/fast focal activity, subtle asymmetries, spikes and waves, as well as in longitudinal follow-ups.(AU)</field>
+  <field tag='83'>Resumo: O uso clínico do EEG Quantitativo nas doenças cognitivas. O diagnóstico das doenças cognitivas geralmente é clínico mas o EEG é importante como exame auxiliar na avaliação, diagnóstico e classificação de algumas delas. O debate atual refere-se ao uso clínico do EEGq. Embora muitos achados no EEGq ainda aguardem validação, o EEGq pode ser usado cautelosamente em situações específicas e por um neurofisiologista experiente. Nas doenças cognitivas ele pode contribuir na análise da atividade de base, em atividades focais lentas ou rápidas, assimetrias sutís, pontas e ondas e no acompanhamento longitudinal dos pacientes.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538886^dBIREME_LLXPEDT^sS1980-576420090004000100015</field>
+</record>
+
+<record mfn='21' nvf='32' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538885</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a03.pdf?aid2=167&amp;nome_en=v3n3a03.pdf^len.pdf</field>
+  <field tag='10'>Paula, Vanessa de Jesus R. de^1University of São Paulo^2Faculty of Medicine^3Institute of Psychiatry. Department of Psychiatry. Laboratory of Neuroscience LIM-27^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Guimarães, Fabiana Meira^1University of São Paulo^2Faculty of Medicine^3Institute of Psychiatry. Department of Psychiatry. Laboratory of Neuroscience LIM-27^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Diniz, Breno Satler ^1University of São Paulo^2Faculty of Medicine^3Institute of Psychiatry. Department of Psyciatry. Laboratory of Neuroscience LIM-27^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Forlenza, Orestes Vicente ^1University of São Paulo^2Faculty of Medicine^3Institute of Psychiatry. Department of Psychiatry. Laboratory of Neuroscience LIM-27^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Neurobiological pathways to Alzheimers disease: Amyloid-beta, Tau protein or both?</field>
+  <field tag='12'>Trajetórias neurobiológicas para a doença de Alzheimer: beta-amilóide, proteína Tau ou ambas?</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Alzheimers disease (AD) is a neurodegenerative disease characterized by progressive cognitive decline, including memory loss, behavioral and psychological symptoms and personality changes. The neuropathological hallmarks of AD are the presence of neuritic (senile) plaques (NP) and neurofibrillary tangles (NFT), along with neuronal loss, dystrophic neurites, and gliosis. Neuritic plaques are extracellular lesions and their main constituent is the amyloid-beta42 peptide (A- beta42). Neurofibrillary tangles are intracellular lesions that are mainly composed of hyperphosphorylated ta u protein. In this article, we review the major hypotheses concerning the physiopathology of AD, focusing on the beta-amyloid cascade as primary events (supported by the "beta-aptists") and cytoskeletal abnormalities secondary to the hyperphosphorylation of protein Tau (as advocated by the "Tauists"). We further provide an integrative view of the physiopathology of AD.(AU)</field>
+  <field tag='83'>Resumo: A doença de Alzheimer (DA) é uma desordem neurodegenerativa progressiva que cursa comprometimento da memória e outras funções cognitivas, alterações comportamentais, psíquicas e da personalidade. Os achados neuropatológicos característicos da DA são as placas neuríticas (senis) e os emaranhados neurofibrilares, também ocorrendo distrofia de neuritos, gliose e perda neuronal. As placas neuríticas são lesões extracelulares que têm no peptídeo beta-amilóide (A beta42) seu principal constituinte. Os emaranhados neurofibrilares são lesões intraneuronais compostas por agregados de proteína TAU em estado hiperfosforilado. Neste artigo de revisão, apresentamos as principais hipóteses relacionadas à fisiopatologia da DA, com foco na cascata do amilóide como evento inicial (hipótese preconizada pelos "beta-aptistas") e nas alterações do citoesqueleto neuronal, decorrentes da fosforilação anormal da TAU (conforme proposto pelos "beta-tauístas"). Os achados são discutidos numa leitura integrada desses dois mecanismos fisiopatológicos.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20091211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538885^dBIREME_LLXPEDT^sS1980-576420090004000100014</field>
+</record>
+
+<record mfn='22' nvf='30' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538884</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a02.pdf?aid2=166&amp;nome_en=v3n3a02.pdf^len.pdf</field>
+  <field tag='10'>Teive, Helio Afonso Ghizoni ^1Federal University of Paraná^2Hospital de Clínicas ^3Internal Medicine Department . Neurology Service^pBrasil^cCuritiba^rorg</field>
+  <field tag='10'>Arruda, Walter Oleschko ^1Federal University of Paraná^2Hospital de Clínicas ^3Internal Medicine Department. Neurology Service^pBrasil^cCuritiba^rorg</field>
+  <field tag='12'>Cognitive dysfunction in spinocerebellar ataxias</field>
+  <field tag='12'>Disfunção cognitiva em ataxias espinocerebelares</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Spinocerebellar ataxias (SCAs) comprise a heterogeneous group of complex neurodegenerative diseases, characterized by the presence of progressive cerebellar ataxia, associated or otherwise with ophthalmoplegia, pyramidal signs, extrapyramidal features, pigmentary retinopathy, peripheral neuropathy, cognitive dysfunction and dementia. Objective: To verify the presence of cognitive dysfunction among the main types of SCA described in the literature. Methods: the review was conducted using the search system of the PUBMED and OMIM databases. Results: Cognitive dysfunction occurs in a considerable proportion of SCA, particularly in SCA 3, which is the most frequent form of SCA worldwide. Dementia has been described in several other types of SCA such as SCA 2, SCA 17 and DRPLA. Mental retardation is a specific clinical feature of SCA 13. Conclusions: The role of the cerebellum in cognitive functions has been observed in different types of SCAs which can manifest varying degrees of cognitive dysfunction, dementia and mental retardation.(AU)</field>
+  <field tag='83'>Resumo:  As ataxias espinocerebelares (AECs) compreendem um grupo heterogêneo de enfermidades neurodegenerativas, que se caracterizam pela presença de ataxia cerebelar progressiva, associada de forma avariada com oftalmoplegia, sinais piramidais, extrapiramidais, retinopatia pigmentar, neuropatia periférica, disfunção cognitiva e demência. Objetivo: Revisar a presença de disfunção cognitiva entre os principais tipos de AECs publicados na literatura mundial. Métodos: A revisão foi realizada através da pesquisa pelo sistema do PUBMED e do OMIM. Resultados: Disfunção cognitiva ocorre em uma parcela considerável de AECs, particularmente na AEC 3, que é a forma de AEC mais encontrada em todo o mundo. Demência também tem sido descrita em alguns tipos de AECs como a AEC 2, a AEC 17 e a DRPLA. Retardo mental é característica clínica peculiar da AEC tipo 13. Conclusões: O papel do cerebelo nas funções cognitivas vem sendo enfatizado cada vez mais e diferentes tipos de AECs, apresentam graus variados de disfunção cognitiva, demência e também retardo mental.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20091211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538884^dBIREME_LLXPEDT^sS1980-576420090004000100013</field>
+</record>
+
+<record mfn='23' nvf='32' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538883</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a13.pdf?aid2=177&amp;nome_en=v3n3a13.pdf^len.pdf</field>
+  <field tag='10'>Porto, Fábio Henrique de Gobbi^1University of São Paulo^2Hospital das Clínicas^3Behavioral and Cognitive Neurology Unit, Department of Neurology, and Cognitive Disorders Reference Center (CEREDIC)^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Machado, Gislaine Cristina Lopes^1Hospital A.C. Camargo^2Department of Radiology^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Silva, Mari-Nilva Maia da^1University of São Paulo^2Hospital das Clínicas^3Department of Neurology. Cognitive Disorders Reference Center (CEREDIC)^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Freitas, Gabriel Rodriguez de^1Federal Fluminense University^2Hospital Antônio Pedro^3Department of Neurology. Cerebrovascular Unit^pBrasil^cRio de Janeiro^rorg</field>
+  <field tag='12'>The eye sign due to hemispatial neglect</field>
+  <field tag='12'>Sinal do olhar por negligência hemiespacial: um relato de caso</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Conjugate eye deviation is characterized by a sustained shift in horizontal gaze, usually toward the affected brain hemisphere. When detected on neuroimaging, it is called the ïeye sign`. It is classically associated with lesions involving the frontal eye s, ipsilateral to the side of the deviation. Neglect may be conceptualized as a spatially addressed bias of the sensory events in explicit behaviors and in the absence of perceptual and motor deficits. Hemispatial neglect is a common disabling condition that occurs following acute unilateral brain damage, usually to the right side. We report a case of a patient presenting with the ïeye sign` on tomography, following an acute subinsular stroke, in the absence of conjugated eyes deviation. Our hypothesis was that the sign may have been due to hemispatial neglect in this patient. The aim of this article was to discuss the mechanisms involved in the attention network and its neuroanatomic correlates.(AU)</field>
+  <field tag='83'>Resumo: Desvio conjugado do olhar é caracterizado por um desvio sustentado horizontal da mirada, normalmente para o lado do hemisfério afetado. Quando visto por métodos de imagem, é chamado ïsinal do olhar`. O sinal é normalmente associado a lesões envolvendo o campo frontal do olho ipsilateral ao lado do desvio. Negligência pode ser conceitualizada como um viés espacial dos eventos sensoriais no comportamento explícito, na ausência de alterações da percepção e motoras. Negligência hemiespacial é uma condição comum e incapacitante que ocorre após lesão cerebral aguda, principalmente à direita. Nós relatamos um caso de um paciente que apresenta o ïsinal do olhar` na tomografia, após um infarto subinsular, na ausência de desvio conjugado do olhar. Nossa hipótese é que, neste paciente, o sinal pode ser devido à negligência hemiespacial. O objetivo deste artigo é discutir os mecanismos envolvidos na rede da atenção e seus correlatos anatômicos.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20091211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538883^dBIREME_LLXPEDT^sS1980-576420090004000100012</field>
+</record>
+
+<record mfn='24' nvf='30' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538882</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a12.pdf?aid2=176&amp;nome_en=v3n3a12.pdf^len.pdf</field>
+  <field tag='10'>Manzine, Patricia Regina ^1Federal University^pBrasil^cSão Carlos^rorg</field>
+  <field tag='10'>Pavarini, Sofia Cristina Iost ^1Federal University ^2Department of Nursing^pBrasil^cSão Carlos^rorg</field>
+  <field tag='12'>Cognitive rehabilitation: literature review based on levels of evidence</field>
+  <field tag='12'>Reabilitação cognitiva: um estudo de revisão baseada em níveis de evidência</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: The aim of this study was to review the scientific publications on cognitive rehabilitation in Alzheimer's disease by year published and methodology employed. The principles of systematic review by the Brazilian Cochrane Center were used. Reviews conducted by this Center were identified together with those held on the LILACS and Medline scientific databases. Nine levels of evidence were considered for analysis and a total of 37 articles were found. The results showed a growing number of publications from 2001 onwards, with majority being published early this decade. Few studies have been published on cognitive rehabilitation, with an average of three articles published per year during the study period (1985?2008). The highest levels of evidence were observed in the more recently published studies. Cognitive rehabilitation can yield greater benefits in rehabilitating patients when associated with other forms of intervention. The latest studies demonstrating greater scientific evidence concluded that results remain limited and that further studies on the topic are needed.(AU)</field>
+  <field tag='83'>Resumo: O objetivo foi revisar publicações científicas sobre reabilitação cognitiva na doença de Alzheimer segundo ano de publicação e rigor metodológico. Foram utilizados pressupostos da revisão sistemática do Centro Cochrane do Brasil. Foram identificados estudos de revisão já realizados por este Centro e incluídos estudos das bases LILACS e Medline. Nove níveis de evidência foram considerados para análise. Foram encontrados 37 artigos. Os resultados mostram uma crescente incidência de publicação a partir de 2001, com maior concentração no início desta década. São poucas ainda as publicações sobre reabilitação cognitiva, sendo uma média inferior a três artigos por ano no período estudado (1985-2008). Os maiores níveis de evidência foram observados nas publicações mais recentes. A reabilitação cognitiva quando em associação com outras intervenções pode apresentar maiores benefícios na reabilitação dos pacientes. Os estudos mais atuais e de maior evidência cientifica apontam que os resultados ainda são limitados e novas investigações são necessárias.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20091211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538882^dBIREME_LLXPEDT^sS1980-576420090004000100011</field>
+</record>
+
+<record mfn='25' nvf='34' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538881</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a11.pdf?aid2=175&amp;nome_en=v3n3a11.pdf^len.pdf</field>
+  <field tag='10'>Machado, Fernanda ^1University of São Paulo^2Faculty of Medicine^3Day Hospital Rehabilitation Center (CRHD). Department and Institute of Psychiatry (IPq)^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Nunes, Paula V^1University of São Paulo^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Viola, Luciane F ^1University of São Paulo^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Santos, Franklin S ^1University of Sao Paulo^2Department of Clinical Medicine^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Forlenza, Orestes V ^1University of São Paulo^pBrasil^cSão Paulo^rorg</field>
+  <field tag='10'>Yassuda, Mônica S ^1University of São Paulo^2School of Arts^3Sciences and Humanities^pBrasil^cSão Paulo^rorg</field>
+  <field tag='12'>Quality of life and Alzheimers disease: influence of participation at a rehabilitation center</field>
+  <field tag='12'>Qualidade de vida e doença de Alzheimer: a influência da participação em um centro de reabilitação</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract: Quality of life is seldom explored in evaluations of therapeutic interventions in Alzheimer's disease. Objective: To verify whether participation in a cognitive and functional rehabilitation program improves quality of life (QOL) among Alzheimer's disease (AD) patients. Methods: 19 AD patients participated in this study, 12 of whom attended 24 multi-professional intervention sessions - the experimental group - whereas the remaining 7 comprised the control group. The following tools were used to assess changes: a) Mini-Mental State Examination (MMSE); b) Geriatric Depression Scale (GDS); c) Quality of Life in AD evaluation scale (QOL-AD); d) Open question on QOL. Results: Participation had no positive impact on quantitative clinical variables (MMSE, GDS, QOL-AD). The answers to the open question, examined using the Collective Subject Discourse (CSD) method, suggested that QOL improved after the intervention. Conclusion: Combining pharmacological treatment with psychosocial intervention may prove to be an effective strategy to enhance the QOL of AD patients.(AU)</field>
+  <field tag='83'>Resumo: Qualidade de vida não é frequentemente explorada na avaliação dos resultados de intervenções terapêuticas em DA. Objetivo: Verificar se a participação em um programa de reabilitação cognitiva e funcional melhora a qualidade de vida (QV) de pacientes com doença de Alzheimer. Metodos: 19 pacientes com DA participaram deste estudo, 12 participaram de 24 sessões de intervenção multiprofissional - grupo experimental - enquanto os 7 restantes compuseram o grupo controle. Os seguintes instrumentos foram utilizados para avaliar mudanças: a) Mini-Exame do Estado Mental (MEEM); b) Escala de Depressão Geriátrica (EDG); c) Escala de Avaliação de Qualidade de Vida na Doença de Alzheimer (QdV-DA); d) questão aberta sobre QV. Resultados: A participação não mostrou efeitos positivos em variáveis clínicas quantitativas (MEEM, EDG, QdV-DA). Os relatos na questão aberta, analisados através da metodologia do discurso do sujeito coletivo (DSC), sugeriram que a QV melhora após a intervenção. Conclusão: Aliar o tratamento medicamentoso às intervenções psicossociais pode ser uma boa estratégia para a melhora da QV dos portadores de DA.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20091211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538881^dBIREME_LLXPEDT^sS1980-576420090004000100010</field>
+</record>
+
+<record mfn='26' nvf='29' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538880</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://www.demneuropsy.com.br/imageBank/PDF/v3n3a06.pdf?aid2=170&amp;nome_en=v3n3a06.pdf^len.pdf</field>
+  <field tag='10'>Brucki, Sonia Maria Dozzi^1Federal University of São Paulo ^2 Psychobiology Department and University of São Paulo, Cognitive and Behavioral Neurology Group^pBrasil^cSão Paulo^rcoord</field>
+  <field tag='12'>Does prevention for Alzheimers disease exist?</field>
+  <field tag='12'>A prevenção da doença de Alzheimer existe?</field>
+  <field tag='30'>Dement. neuropsychol</field>
+  <field tag='31'>3</field>
+  <field tag='32'>3</field>
+  <field tag='35'>1980-5764</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='41'>Pt</field>
+  <field tag='64'>20/09/2009</field>
+  <field tag='65'>20090000</field>
+  <field tag='67'>BR</field>
+  <field tag='83'>Abstract ? The prevention of Alzheimer?s disease is a growing public health concern amidst an ageing population. Meanwhile, there is no effective or curative treatment available where prevention could greatly reduce health costs. This review was based on reports of potential preventive factors, including modifiable lifestyle factors, as well as preventive pharmacological strategies. Although the present review was not systematic, the reports selected from PubMed using ?Alzheimer?s disease? and ?prevention? as key-words, allow us to affirm that pursuing a healthy lifestyle; physical, cognitive, leisure activities; good social engagement; a high consumption of fish, low consumption of dietary fat and moderate consumption of wine, and control of vascular risk factors appear to be potential factors for delaying dementia.(AU)</field>
+  <field tag='83'>Resumo ? A prevenção da doença de Alzheimer é um problema de saúde pública, enquanto a população está envelhecendo. Por enquanto, não há tratamento efetivo ou curativo e prevenção poderia evitar grandes custos financeiros. Esta revisão foi baseada em estudos sobre potenciais fatores preventivos, incluindo fatores modificáveis de estilo de vida, bem como estratégias farmacológicas preventivas. Embora esta revisão não seja sistemática, estudos selecionados do PubMed, com palavras-chave ?Alzheimer?s disease? e ? prevention?, permitem afirmar que ter um estilo de vida saudável, atividades físicas, cognitivas e de lazer; bom engajamento social; aumento no consumo de peixes, redução no consumo de gorduras consumo meoderado de vinho; controle dos fatores de risco vasculares parecem ter vantagens potenciais em retardar a demência.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20091211</field>
+  <field tag='92'>BR1876.9</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538880^dBIREME_LLXPEDT^sS1980-576420090004000100005</field>
+</record>
+
+<record mfn='27' nvf='36' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538879</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://periodicos.uem.br/ojs/index.php/ActaSciHealthSci/article/view/4517/4517^lpt</field>
+  <field tag='10'>Delalíbera, Hérica Vanessa Colonhese^1s. af^pBrasil^cMaringá</field>
+  <field tag='10'>Silva, Mariliani Chicarelli da^1Universidade Estadual de Maringá^2Departamento de Odontologia^pBrasil^cMaringá</field>
+  <field tag='10'>Pascotto, Renata Corrêa^1Universidade Estadual de Maringá^2Departamento de Odontologia^pBrasil^cMaringá</field>
+  <field tag='10'>Terada, Hélio Hissashi^1Universidade Estadual de Maringá^2Departamento de Odontologia^pBrasil^cMaringá</field>
+  <field tag='10'>Terada, Raquel Sano Suga^1Universidade Estadual de Maringá^2Departamento de Odontologia^pBrasil^cMaringá</field>
+  <field tag='12'>Avaliação estética de pacientes submetidos a tratamento ortodôntico</field>
+  <field tag='13'>Aesthetic evaluation of patients submitted to orthodontic treatment</field>
+  <field tag='30'>Acta sci., Health sci</field>
+  <field tag='31'>32</field>
+  <field tag='32'>1</field>
+  <field tag='35'>1679-9291</field>
+  <field tag='38'>ilus</field>
+  <field tag='38'>tab</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='64'>Jan.-Jun. 2010</field>
+  <field tag='65'>20100000</field>
+  <field tag='67'>BR</field>
+  <field tag='72'>30</field>
+  <field tag='83'>Este trabalho avaliou os resultados estéticos de pacientes Classe II submetidos à terapia ortodôntica corretiva. Selecionaram-se, aleatoriamente, sete pacientes do gênero feminino, leucodermas, submetidas a tratamento ortodôntico corretivo com extração de pelo menos dois pré-molares e com início do tratamento aos 16 até 26 anos. Cada paciente foi entrevistada e as falas foram gravadas e posteriormente transcritas e analisadas. Modelos de estudo, teleradiografias e fotografias constantes nos prontuários foram consultados para se avaliar cinco parâmetros quantitativos: contorno facial, ângulo nasolabial, proporção áurea inter-incisivos, linha média facial e dentária e silhueta incisal no sorriso. Os resultados obtidos revelaram que o tratamento ortodôntico corretivo melhorou a estética facial, alterando medidas do tecido mole da face, o sorriso e as relações pessoais. Concluiu-se que as pesquisas qualitativas e quantitativas são complementares, pois uma análise de resultados, baseada somente em um parâmetro, pode mascarar o resultado real e revelar aspectos parciais. A análise qualitativa indica que ângulos e proporções faciais diferentes do que é proposto cientificamente como estético não interferem com os resultados do tratamento, contanto que a percepção facial dos sujeitos envolvidos vá ao encontro dos padrões de normalidade aceitos por estes e estabelecidos pela sociedade.(AU)</field>
+  <field tag='83'>Aesthetic evaluation of patients submitted to orthodontic treatment. The aim of this study was to investigate the aesthetic results of orthodontic treatment in Class II individuals. Seven Caucasian females were randomly selected, subjected to corrective orthodontic treatment with extraction of at least two pre-molars and initiation of treatment between 16 and 26 years of age. All patients were interviewed; their speeches were recorded and then transcribed and analyzed. Plaster models, lateral radiographs and photographs contained in records were consulted to assess five quantitative parameters: facial contour, nasolabial angle, incisors golden ratio, facial and dental midline, and smile line to incisal edge. The corrective orthodontic treatment improves facial aesthetics, changing facial soft tissue measures, smile and personal relationships. It was concluded that the qualitative and quantitative research are complementary, because an analysis of results based only on one parameter can mask the actual outcome and reveal aspects partially. The qualitative analysis indicates that different facial angles and proportions of what is proposed as scientifically aesthetic does not interfere with the results of treatment, provided that the facial perception of the subjects involved meet the standards of normality and accepted by them and those set by society.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100301</field>
+  <field tag='92'>BR513.2</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538879^dBIREME_LLXPEDT^sS1679-92912010000900015</field>
+</record>
+
+<record mfn='28' nvf='34' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538878</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://periodicos.uem.br/ojs/index.php/ActaSciHealthSci/article/view/5439/5439^lpt</field>
+  <field tag='10'>Maurício, Angélica Aparecida^1Centro Universitário de Maringá^pBrasil^cMaringá</field>
+  <field tag='10'>Trentinalha, Andressa Sanches^1Centro Universitário de Maringá^pBrasil^cMaringá</field>
+  <field tag='12'>Elaboração e análise sensorial de trufa isenta de lactose</field>
+  <field tag='13'>Preparation and sensory analysis of a lactose-free chocolate truffle</field>
+  <field tag='30'>Acta sci., Health sci</field>
+  <field tag='31'>32</field>
+  <field tag='32'>1</field>
+  <field tag='35'>1679-9291</field>
+  <field tag='38'>tab</field>
+  <field tag='38'>graf</field>
+  <field tag='38'>ilus</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='64'>Jan.-Jun. 2010</field>
+  <field tag='65'>20100000</field>
+  <field tag='67'>BR</field>
+  <field tag='72'>20</field>
+  <field tag='83'>Desenvolveu-se uma ?trufa de chocolate? à base de soja, similar à trufa tradicional; apta aos intolerantes à lactose. Realizaram-se duas análises sensoriais, sendo a primeira um teste triangular onde se avaliaram as diferenças sensoriais entre a trufa à base de soja e uma tradicional. Pela escala Hedônica de nove pontos realizou-se a análise sensorial da trufa à base de soja, para estabelecer o seu ?status afetivo?. Os atributos avaliados foram: cor, aroma de chocolate, sabor amargo, doçura, maciez e aceitação global. Participaram das analises 143 indivíduos, sendo 43 do teste triangular e 100 do teste de aceitação. O resultado do teste triangular foi submetido à análise da tabela de resultados, segundo Meilgaard et al. (1987), com 0,1% de significância e o do teste afetivo de aceitação, por percentual. Apenas 16 provadores não souberam identificar a trufa diferente no teste triangular. No teste de aceitação, 89% dos indivíduos deram nota superior a seis pontos para o atributo maciez. Em relação ao sabor amargo, 68% relataram gostar ligeiramente (seis) a gostar muitíssimo (nove). Na variável aceitação global, 84% dos indivíduos deram notas superiores a seis na escala. Certamente, 42% dos indivíduos certamente comprariam a trufa de soja e 39% provavelmente comprariam demonstrando um índice de aceitação de 81% dos consumidores. Conclui-se que o produto elaborado obteve boa aceitação.(AU)</field>
+  <field tag='83'>This study developed a soy-based chocolate truffle, similar to the traditional truffle, appropriate for lactose-intolerant people. Two sensory analyses were done; the first was a triangular test in which the sensory differences between the soy truffle and a traditional one were evaluated. The sensory analysis of the soy-based truffle was done using the nine-point Hedonic scale, in order to establish its ?affective status?. The analyzed attributes were: color, chocolate aroma, bitter taste, sweetness, softness and overall acceptance. A total of 143 individuals participated in the analysis, with 43 in the triangular test and 100 in the acceptance test. The result of the triangular test was submitted to an analysis of the table of results, according to Meilgaard et al. (1987), with level of significance of 0.1% and the affective, and the acceptance test evaluated by percentage. Only 16 participants were not able to identify the different truffle in the triangular test. In the acceptance test, 89% of individuals gave a grade higher than six points in the softness attribute. Regarding bitter taste, 68% reported liking it slightly (six) to very much (nine). In the variable overall acceptance, 84% of individuals gave a grade higher than six points on the scale. Forty-two percent of tasters would certainly buy the soy truffle and 39% would probably buy it, showing an 81% level of consumer acceptance. It was concluded that the product obtained good acceptance.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100301</field>
+  <field tag='92'>BR513.2</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538878^dBIREME_LLXPEDT^sS1679-92912010000900014</field>
+</record>
+
+<record mfn='29' nvf='33' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538877</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://periodicos.uem.br/ojs/index.php/ActaSciHealthSci/article/view/5631/5631^lpt</field>
+  <field tag='10'>Jobim, Eduardo Furtado da Cruz^1Pontifícia Universidade Católica do Rio Grande do Sul^2Hospital Municipal de Jardim Alegre^pBrasil^cPorto Alegre</field>
+  <field tag='10'>Souza, Valdemar Oscar de^1Hospital Municipal de Cândido de Abreu^pBrasil^cCândido de Abreu</field>
+  <field tag='10'>Cabrera, Marcos Aparecido Sarriá^1Universidade Estadual de Londrina^pBrasil^cLondrina</field>
+  <field tag='12'>Causas de hospitalização de idosos em dois hospitais gerais pelo Sistema Único de Saúde (SUS)</field>
+  <field tag='13'>Causes of hospitalization in elderly patients in two general hospitals under Brazil?s public health system</field>
+  <field tag='30'>Acta sci., Health sci</field>
+  <field tag='31'>32</field>
+  <field tag='32'>1</field>
+  <field tag='35'>1679-9291</field>
+  <field tag='38'>tab</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='64'>Jan.-Jun. 2010</field>
+  <field tag='65'>20100000</field>
+  <field tag='67'>BR</field>
+  <field tag='72'>14</field>
+  <field tag='83'>Este estudo visou determinar as principais causas de hospitalização em idosos (60 anos ou mais), realizada nos municípios de Cândido de Abreu e Jardim Alegre, pertencentes à 22ª Regional de Saúde (RS), Ivaiporã, Estado do Paraná, em hospitais gerais credenciados do Sistema Único de Saúde no ano de 2005. Foram estudados pacientes idosos hospitalizados em Cândido de Abreu e Jardim Alegre, utilizando-se dados do Sistema de Informações Hospitalares do Sistema Único de Saúde (SIH/SUS) e usando-se como variáveis: sexo, faixa etária (60-79 anos e 80 anos ou mais) e diagnóstico principal pelos capítulos do Código Internacional de Doenças (CID) 10 revisão de 1996. De um total de 1.489 internamento hospitalares em Cândido de Abreu (C.A.) e 1.103 internamentos em Jardim Alegre (J.A.), realizados de janeiro a dezembro do ano de 2005, o número de hospitalizações em idosos é de 376 (25,2%) e 352 (31,9%), respectivamente. Os resultados mostram alta prevalência hospitalizações de idosos e reforçam a necessidade de preparo de pessoal capacitado e do sistema público de saúde para atendimento dessa população idosa que vem aumentando de maneira tão rápida.(AU)</field>
+  <field tag='83'>Causes of hospitalization in elderly patients in two general hospitals under Brazil?s public health system. The aim of this study was to determine the main causes of hospitalization in elderly patients (60 years and older) in the cities of Cândido de Abreu and Jardim Alegre, which belong to the 22nd Regional Health Area,  Ivaiporã, Paraná State, in general hospitals of the Public National Health System (SUS) in Brazil in the year 2005. Elderly patients were studied in Cândido de Abreu and Jardim Alegre hospitals using data from the Hospital Information System of the Public National Health System (SIH/SUS), using the following variables: gender, age group (60-79 years and 80 years or older) and main diagnosis according to the chapters of the International Classification of Diseases (ICD) 10, 1996 revision. From a total of 1,489 hospital admissions in Cândido de Abreu and 1,103 admissions in Jardim Alegre from January to December 2005, the number of hospitalizations in elderly patients is 376 (25.2%) and 352 (31.9%) respectively. The results show the high prevalence of elderly hospitalization and reinforce the need to prepare capable staff and the assistance the public health system for this elderly population that increases quite rapidly.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100301</field>
+  <field tag='92'>BR513.2</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538877^dBIREME_LLXPEDT^sS1679-92912010000900013</field>
+</record>
+
+<record mfn='30' nvf='34' status='ACTIVE'>
+  <field tag='1'>BR1.1</field>
+  <field tag='2'>538876</field>
+  <field tag='4'>LILACS</field>
+  <field tag='4'>LLXPEDT</field>
+  <field tag='5'>S</field>
+  <field tag='6'>as</field>
+  <field tag='8'>Internet^ihttp://periodicos.uem.br/ojs/index.php/ActaSciHealthSci/article/view/5746/5746^lpt</field>
+  <field tag='10'>Lacerda, Ione Cavalcante^1Universidade Estadual do Ceará^pBrasil^cFortaleza</field>
+  <field tag='10'>Veloso, Samuel Diógenes Gomes^1Universidade Estadual do Ceará^pBrasil^cFortaleza</field>
+  <field tag='10'>Souza, Ana Célia Caetano de^1Universidade Estadual do Ceará^pBrasil^cFortaleza</field>
+  <field tag='10'>Moreira, Thereza Maria Magalhães^1Universidade Estadual do Ceará^pBrasil^cFortaleza</field>
+  <field tag='12'>Características da clientela atendida por crise hipertensiva na emergência de um hospital municipal de Fortaleza, Estado do Ceará</field>
+  <field tag='13'>Characteristics of the clientele assisted for hypertensive crisis in the emergency of a municipal hospital in Fortaleza, Ceará State</field>
+  <field tag='30'>Acta sci., Health sci</field>
+  <field tag='31'>32</field>
+  <field tag='32'>1</field>
+  <field tag='35'>1679-9291</field>
+  <field tag='38'>tab</field>
+  <field tag='40'>Pt</field>
+  <field tag='41'>Pt</field>
+  <field tag='41'>En</field>
+  <field tag='64'>Jan.-Jun. 2010</field>
+  <field tag='65'>20100000</field>
+  <field tag='67'>BR</field>
+  <field tag='72'>20</field>
+  <field tag='83'>Objetivou-se descrever as características da clientela com crise hipertensiva. A pesquisa, quantitativa, descritiva e documental foi realizada em um hospital municipal de Fortaleza, Estado do Ceará em 2006. Na análise de 790 fichas de atendimento, observamos que 48,2% dos pacientes que apresentavam crise hipertensiva, encontravam-se na faixa etária de 40 a 59 anos e a maioria dos indivíduos era de casados (57,5%). Os principais sintomas encontrados foram cefaleia (35,7%) e dor precordial (12.3%) e, em 36,8% das fichas, não houve registro de sinais e sintomas. As medicações mais prescritas foram o captopril (90,6%) e furosemida (53%). Conclui-se que a crise hipertensiva acomete muitos adultos, a maioria casados e que geralmente vão à emergência para fazer avaliação clínica de algum sinal/sintoma. Ressalta-se a necessidade de se alertar os profissionais de saúde quanto à importância do registro para conhecimento e compreensão das características dessa clientela para o controle e a prevenção da crise hipertensiva.(AU)</field>
+  <field tag='83'>The objective was to describe the characteristics of the clientele with hypertensive crisis. The research, which was quantitative, descriptive and documentary, was conducted at a municipal hospital in Fortaleza, Ceará Estate in 2006. In the analysis of 790 patient files, we found that 48.2% of patients presenting hypertensive crisis were in the age group between 40 and 59 years old. Most of the individuals were married (57.5%). The main symptoms were headache (35.7%) and chest pain (12.3%), and in 36.8% of files there was no record of signs and symptoms. The most prescribed medications were captopril (90.6%) and furosemide (53%). We conclude that hypertensive crisis affects many adults, most married and who usually go to the emergency room for clinical evaluation of a sign/symptom. We emphasize the need to alert health professionals about the importance of records for knowledge and understanding of the characteristics of that clientele, to control and prevent hypertensive crisis.(AU)</field>
+  <field tag='84'>2010-03-05</field>
+  <field tag='91'>20100301</field>
+  <field tag='92'>BR513.2</field>
+  <field tag='92'>EDT</field>
+  <field tag='98'>FONTE</field>
+  <field tag='113'>p</field>
+  <field tag='778'>538876^dBIREME_LLXPEDT^sS1679-92912010000900012</field>
+</record>
+
+</database>

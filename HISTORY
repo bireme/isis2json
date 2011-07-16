@@ -1,0 +1,169 @@
+The code in this directory was moved from an SVN repository [1] to allow
+easier collaboration.
+
+[1] http://svn.reddes.bvsalud.org/isisnbp/tools
+
+Later, the isis2json codebase was separated from the ISIS-NBP project
+to make it easier to install and use.
+
+The canonical, most up-to-date version of these files is at this GitHub
+isis2json project.
+
+For historic purposes, below is the output of a some commands showing
+the files in the original repository.
+
+
+#####################################################################
+
+luciano@bireme:~/prj/isisnbp/svn/tools$ ls -la
+total 217
+drwxrwxrwx 1 root root  4096 2011-02-07 16:23 .
+drwxrwxrwx 1 root root  4096 2010-12-20 18:47 ..
+-rwxrwxrwx 1 root root 87352 2010-11-30 17:00 argparse.py
+-rwxrwxrwx 1 root root   365 2010-11-30 17:00 bulkup.sh
+-rwxrwxrwx 1 root root 18092 2010-11-30 17:00 COPYING
+-rwxrwxrwx 1 root root 18092 2010-11-30 17:00 COPYING.LESSER
+-rwxrwxrwx 1 root root  2522 2010-11-30 17:00 idfile.py
+-rwxrwxrwx 1 root root  4839 2010-11-30 17:00 idfile_test.txt
+-rwxrwxrwx 1 root root  9551 2010-12-20 18:47 isis2json.py
+-rwxrwxrwx 1 root root  5391 2010-11-30 17:00 iso2709.py
+-rwxrwxrwx 1 root root  3766 2010-11-30 17:00 iso2709_test.txt
+-rwxrwxrwx 1 root root  6072 2011-02-07 16:23 lixo
+-rwxrwxrwx 1 root root   415 2010-11-30 17:00 README.txt
+-rwxrwxrwx 1 root root  8413 2010-11-30 17:00 schematize.py
+-rwxrwxrwx 1 root root  5593 2010-11-30 17:00 schematize_test.txt
+-rwxrwxrwx 1 root root  5759 2010-11-30 17:00 subfield_access.py
+-rwxrwxrwx 1 root root  3087 2010-11-30 17:00 subfield.py
+drwxrwxrwx 1 root root  4096 2011-02-07 16:20 .svn
+
+#####################################################################
+
+luciano@bireme:~/prj/isisnbp/svn/tools$ svn info
+Caminho: .
+URL: http://svn.reddes.bvsalud.org/isisnbp/tools
+Raiz do Repositório: http://svn.reddes.bvsalud.org/isisnbp
+UUID do repositório: 7b3c32f5-e272-4d6f-9936-548b95b19007
+Revisão: 2513
+Tipo de Nó: diretório
+Agendado: normal
+Autor da Última Mudança: fabio.batalha
+Revisão da Última Mudança: 2504
+Data da Última Mudança: 2010-12-13 17:25:53 -0200 (Seg, 13 Dez 2010)
+
+#####################################################################
+
+luciano@bireme:~/prj/isisnbp/svn/tools$ svn log
+
+------------------------------------------------------------------------
+r2504 | fabio.batalha | 2010-12-13 17:25:53 -0200 (Seg, 13 Dez 2010) | 1 linha
+
+Including parameter regtype to include a field for each register that could discribe the register type
+------------------------------------------------------------------------
+r2489 | luciano.ramalho | 2010-11-13 21:18:13 -0200 (Sáb, 13 Nov 2010) | 1 linha
+
+renamed subfield canonical subfield parser module
+------------------------------------------------------------------------
+r2488 | luciano.ramalho | 2010-11-13 21:16:52 -0200 (Sáb, 13 Nov 2010) | 1 linha
+
+implemented new subfield parser with code options, renamed old subfield access tests
+------------------------------------------------------------------------
+r2483 | luciano.ramalho | 2010-11-01 09:07:56 -0200 (Seg, 01 Nov 2010) | 1 linha
+
+added option to add prefix to numeric tags
+------------------------------------------------------------------------
+r2473 | luciano.ramalho | 2010-10-25 00:37:44 -0200 (Seg, 25 Out 2010) | 1 linha
+
+new, more robust implementation of subfield parser
+------------------------------------------------------------------------
+r2466 | luciano.ramalho | 2010-10-17 14:14:29 -0200 (Dom, 17 Out 2010) | 1 linha
+
+fixed bug when generating _id for non-expanded JSON
+------------------------------------------------------------------------
+r2459 | luciano.ramalho | 2010-10-12 03:20:06 -0300 (Ter, 12 Out 2010) | 1 linha
+
+expand composite field into object (dict)
+------------------------------------------------------------------------
+r2446 | luciano.ramalho | 2010-09-27 18:55:01 -0300 (Seg, 27 Set 2010) | 1 linha
+
+added LGPL headers and files
+------------------------------------------------------------------------
+r2444 | luciano.ramalho | 2010-09-27 17:52:08 -0300 (Seg, 27 Set 2010) | 1 linha
+
+added LGPL header and files
+------------------------------------------------------------------------
+r2443 | luciano.ramalho | 2010-09-27 10:57:03 -0300 (Seg, 27 Set 2010) | 1 linha
+
+added quorum option to ignore infrequent tags
+------------------------------------------------------------------------
+r2442 | luciano.ramalho | 2010-09-20 21:55:14 -0300 (Seg, 20 Set 2010) | 1 linha
+
+added unique key check
+------------------------------------------------------------------------
+r2441 | luciano.ramalho | 2010-09-20 00:16:01 -0300 (Seg, 20 Set 2010) | 1 linha
+
+first version of schematize.py
+------------------------------------------------------------------------
+r2437 | luciano.ramalho | 2010-09-19 18:16:06 -0300 (Dom, 19 Set 2010) | 1 linha
+
+started schematize script
+------------------------------------------------------------------------
+r2436 | luciano.ramalho | 2010-09-18 18:28:11 -0300 (Sáb, 18 Set 2010) | 1 linha
+
+added subield.py with comparing subfield handling with and without regexes; minor tweak to isis2json Zeus output: when SKIP_INACTIVE is true, do not add 'active' field to ouptut, as it is redundant
+------------------------------------------------------------------------
+r2435 | luciano.ramalho | 2010-09-17 19:51:50 -0300 (Sex, 17 Set 2010) | 1 linha
+
+added tests for a few corner cases
+------------------------------------------------------------------------
+r2434 | luciano.ramalho | 2010-09-17 19:33:10 -0300 (Sex, 17 Set 2010) | 1 linha
+
+created id file reader
+------------------------------------------------------------------------
+r2433 | luciano.ramalho | 2010-08-30 07:38:51 -0300 (Seg, 30 Ago 2010) | 1 linha
+
+updated bulkup.sh with new couch option
+------------------------------------------------------------------------
+r2432 | luciano.ramalho | 2010-08-30 00:45:52 -0300 (Seg, 30 Ago 2010) | 1 linha
+
+fixed error messages in writeJsonArray which assumed availability of an mfn
+------------------------------------------------------------------------
+r2431 | luciano.ramalho | 2010-08-29 21:51:09 -0300 (Dom, 29 Ago 2010) | 1 linha
+
+simplejson support for Python 2.5; error message when trying to open .mst with Python (requires Jython and ZeusIII)
+------------------------------------------------------------------------
+r2430 | luciano.ramalho | 2010-08-29 21:35:35 -0300 (Dom, 29 Ago 2010) | 1 linha
+
+added ISO-2709 import functionality to isis2json.py, which is now a Python & Jython script; added field3 WinISIS files
+------------------------------------------------------------------------
+r2428 | luciano.ramalho | 2010-08-29 12:21:28 -0300 (Dom, 29 Ago 2010) | 1 linha
+
+added support for field indicators
+------------------------------------------------------------------------
+r2427 | luciano.ramalho | 2010-08-29 11:00:37 -0300 (Dom, 29 Ago 2010) | 1 linha
+
+iso2709.py passes field3, cds and lilacs30 tests
+------------------------------------------------------------------------
+r2426 | luciano.ramalho | 2010-08-28 16:20:52 -0300 (Sáb, 28 Ago 2010) | 1 linha
+
+started implementation of script to read ISO-2709 files
+------------------------------------------------------------------------
+r2418 | luciano.ramalho | 2010-07-06 23:41:50 -0300 (Ter, 06 Jul 2010) | 1 linha
+
+added final linebreak to JSON for MongoDB compatibiliy; added cds fixtures
+------------------------------------------------------------------------
+r2414 | luciano.ramalho | 2010-07-05 17:07:28 -0300 (Seg, 05 Jul 2010) | 1 linha
+
+split upload in batches with 25000 records each, because 100000 or 50000 did not work (CouchDB sent a null response)
+------------------------------------------------------------------------
+r2413 | luciano.ramalho | 2010-07-05 16:22:09 -0300 (Seg, 05 Jul 2010) | 1 linha
+
+ignore autogenerated Jython .class files
+------------------------------------------------------------------------
+r2412 | luciano.ramalho | 2010-07-05 16:20:55 -0300 (Seg, 05 Jul 2010) | 1 linha
+
+moved isis2json.py and auxiliary files to tools dir
+------------------------------------------------------------------------
+r2411 | luciano.ramalho | 2010-07-05 16:11:53 -0300 (Seg, 05 Jul 2010) | 1 linha
+
+added tools dir
+------------------------------------------------------------------------
