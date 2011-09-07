@@ -193,7 +193,7 @@ if __name__ == '__main__':
              ' one per line for bulk insert to MongoDB via mongoimport utility')
     parser.add_argument(
         '-t', '--type', type=int, metavar='ISIS_JSON_TYPE', default=1,
-        help='ISIS-JSON type, sets field structure: 1=string, 2=alist, 3=dict')
+        help='ISIS-JSON type, sets field structure: 1=string, 2=alist, 3=dict (default=1)')
     parser.add_argument(
         '-q', '--qty', type=int, default=DEFAULT_QTY,
         help='maximum quantity of records to read (default=ALL)')
