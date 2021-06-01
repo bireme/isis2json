@@ -1,6 +1,7 @@
 ===============================================
 isis2json: CDS/ISIS to JSON database converter
 ===============================================
+This repository has been archived. It is now read-only.
 
 The isis2json.py is a Python/Jython script to export ISIS (MST+XRF)
 or ISO-2709 databases to JSON files, optionally compatible with CouchDB
